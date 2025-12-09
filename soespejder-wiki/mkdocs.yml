@@ -9,6 +9,7 @@ nav:
   - Hjem: index.md
   - DDS & Spejderliv:
       - Spejderliv: dds/spejderliv.md
+      - Spejderloven (ordlyd): dds/spejderloven.md
   - Sikkerhed: sikkerhed.md
   - Grundlæggende sejlads: teori.md
   - Bådtype:

@@ -5,15 +5,15 @@
 
 Det Danske Spejderkorps’ spejderlov består af syv punkter. Som spejder gør du dit bedste for at:
 
-- **At finde din egen tro og respektere andres**  
-- **At værne om naturen**  
-- **At være en god kammerat**  
-- **At være hensynsfuld og hjælpe andre**  
-- **At være til at stole på**  
-- **At høre andres meninger og danne dine egne**  
-- **At tage medansvar i familie og samfund**  
+- **At være en god kammerat**
+- **At være hensynsfuld og hjælpe andre**
+- **At være til at stole på**
+- **At høre andres meninger og danne dine egne**
+- **At tage medansvar i familie og samfund**
+- **At værne om naturen**
+- **At finde din egen tro og respektere andres**
 
-Punkterne kommer fra korpsets officielle spejderlov【617084591983856†L72-L80】.
+Se den fulde, officielle ordlyd på [Spejderloven-siden](spejderloven.md) med ankerlinks til hvert punkt.
 
 ## Spejdermetoden
 
