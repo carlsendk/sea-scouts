@@ -1,0 +1,5 @@
+# MkDocs build output
+soespejder-wiki/site/
+
+# Virtual environments
+.venv/
