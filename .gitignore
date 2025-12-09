@@ -3,3 +3,6 @@ soespejder-wiki/site/
 
 # Virtual environments
 .venv/
+
+# Archives
+*.zip
