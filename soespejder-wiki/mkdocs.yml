@@ -1,6 +1,10 @@
-
 site_name: Søspejder Wiki
 site_description: Statisk wiki for søspejdere (Optimist, J/70, joller)
+site_url: https://<owner>.github.io/sea-scouts
+repo_url: https://github.com/sea-scouts/sea-scouts
+repo_name: sea-scouts/sea-scouts
+edit_uri: edit/main/soespejder-wiki/docs/
+
 nav:
   - Hjem: index.md
   - DDS & Spejderliv:
@@ -29,3 +33,67 @@ nav:
 theme:
   name: material
   language: da
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - navigation.instant
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Skift til mørk tema
+    - scheme: slate
+      primary: indigo
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Skift til lyst tema
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sea-scouts/sea-scouts
+      name: GitHub
+
+plugins:
+  - search
+  - glightbox
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.keys
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
