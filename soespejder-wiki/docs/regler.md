@@ -59,3 +59,20 @@ IALA system A bruges i Europa (inkl. Danmark). Brug reglen “rød til venstre p
 Andre mærker: specialmærker (gule), midtled (røde/hvide striber) og nyt vand (rød/hvid).
 
 Lav memorykort eller små modeller for at øve jer i at genkende mærkerne.
+
+## Hvad gør du hvis...?
+
+### Mødet i trangt løb
+
+- **8–12 år:** Sænk farten, hold dig til højre side af løbet og signalér tydeligt med håndtegn. Bed en makker holde udkig fremad.
+- **12–16 år:** Planlæg passage i god tid, giv en kort tone for styrbord drejning og hold kursen stabil. Hav en plan for at bakke ud, hvis motorbåd nærmer sig for hurtigt.
+
+### Tæt på kollision
+
+- **8–12 år:** Drej beslutsomt til styrbord, sigt efter åbent vand og råb “styrbord!”. Stop hvis du er i tvivl, og vent på fri passage.
+- **12–16 år:** Tag en kursændring på minimum 30°, brug lydsignal og gør din intention tydelig. Log situationen som læring efterfølgende.
+
+### Natte- eller tågessejlads
+
+- **8–12 år:** Bliv tæt på instruktøren, brug pandelampe vendt nedad og kig efter røde/grønne lanterner for at se retning.
+- **12–16 år:** Tjek at egne lanterner virker, aftal mønstring hvis sigtbarheden falder, og hold ekstra udkig efter hvide sektorfyr. Brug kompas som backup.

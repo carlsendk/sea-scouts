@@ -12,18 +12,42 @@ Sikkerhed er fundamentet for al sejlads. Her er de vigtigste emner du skal kende
 
 ## Vejrgrænser
 
-Tjek altid vejrudsigten før turen. For begyndere sejles der typisk ikke i vind over 8–10 m/s eller i tordenvejr. Brug apps som DMI, YR eller Windy og kig på himlen: mørke skyer, vindstød og lyn betyder at I skal blive på land.
+Tjek altid vejrudsigten før turen. Brug apps som DMI, YR eller Windy og kig på himlen: mørke skyer, vindstød og lyn betyder at I skal blive på land.
+
+**Aldersopdelte grænser**
+
+| Alder | Vind og bølger | Nedbør og sigt | Lederbeslutning |
+| --- | --- | --- | --- |
+| 8–12 år | Max 8 m/s og bølgehøjde under 0,5 m. Ingen torden. | Sejl ikke i tæt regn eller dis, hvor kystlinje/sikkerhedsrum ikke er synligt. | Leder skal godkende hver tur, sikre følgebåd og lave exit-plan. |
+| 12–16 år | Op til 10 m/s i stabile forhold og bølger < 0,75 m. Ingen torden. | Kortvarig regn er ok, men sigt skal være > 500 m og radarreflektor/VHF skal være klar. | Leder vurderer erfaring, besætning og temperatur; dokumentér grænser i logbog. |
+
+**Hurtig vejr-check:**
+
+- Måling: brug håndholdt vindmåler på broen, ikke kun app.
+- Temperatur: under 10 °C vand/luft = kortere pas og flere lag.
+- Redningsvest: obligatorisk for alle; tørdragter anbefales under 10 °C vand.
+- Aftal “kom hjem”-signal (VHF/telefon) før afgang.
 
 ## Mand over bord (MOB)
 
-Øv MOB jævnligt:
+Øv MOB jævnligt. Brug MOB-cheatsheetet til print: [MOB-checkliste (PDF)](assets/cheatsheets/mob-checkliste.pdf) og [MOB-cheatsheet (kort)](cheatsheets/mob-checkliste.md).
 
-1. Råb “mand over bord!” og peg mod personen.  
-2. Kast en bøje eller fender.  
-3. Vend båden kontrollabelt og sejl tilbage mod personen på læ side.  
-4. Saml personen op via stævnen eller læ side.  
+**Roller per aldersspor**
 
-I kølbåde bør en person ligge på dækket og række en arm eller line ud; i joller skal du stoppe og hjælpe personen op i båden.
+| Situation | 8–12 år | 12–16 år |
+| --- | --- | --- |
+| Udmelding | Råber “MOB!” og peger på personen. | Råber klart kald + gentager position; kan supplere med VHF-opkald efter aftale. |
+| Kasteline/bøje | Kaster fender/line fra siddeposition. | Kaster bøje/line og sikrer at linen ikke fanger ror/rig. |
+| Styring | Følger lederens kommandoer; fokus på at holde båden stabil og ikke krydse over linen. | Tager ror og laver kontrolleret vending/bomning tilbage mod personen på læ side. |
+| Optagning | Hjælper med at trække personen mod stævnen eller læ side; sidder i båden. | Ligger på dækket og rækker arm/line, sikrer at sejl er blafrende eller nede før optagning. |
+
+**Trin for trin**
+
+1. Råb “mand over bord!” og peg mod personen.
+2. Marker med bøje/fender eller aktivér MOB-markering på evt. instrument.
+3. Vend båden kontrollabelt og hold personen på læ side, så båden driver mod dem.
+4. Stop bådens fart (frigear i motorbåd, sejl blafrende i jolle) og saml personen op via stævnen eller læ side.
+5. Tjek for nedkøling og skader; skift til tørt tøj/tæppe og meld tilbage til leder.
 
 ## Hypotermi og førstehjælp
 
