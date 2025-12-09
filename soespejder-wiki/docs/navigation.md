@@ -31,3 +31,20 @@ Når du planlægger en tur fra A til B:
 5. Følg med undervejs og juster hvis nødvendigt.
 
 Brug eventuelt GPS/plotter, men lær altid grundlæggende navigation – elektronik kan svigte.
+
+## Hvad gør du hvis...?
+
+### Du mister orienteringen
+
+- **8–12 år:** Stop båden, kig efter kendte landmærker og spørg makker/leder om hjælp. Brug kompas til at finde nord og sammenlign med kortet.
+- **12–16 år:** Lav to pejlinger på tydelige punkter, kryds dem på kortet og vurder afdrift. Meld positionen på VHF eller telefon, hvis du er i tvivl.
+
+### Tåge eller dårlig sigt
+
+- **8–12 år:** Sænk farten, hold kort afstand til ledsagebåd og brug fløjte/horn hver minut for at gøre opmærksom på dig selv.
+- **12–16 år:** Skift til kompasnavigation, hold kurs efter sidste sikre waypoint og før log over tid/fart for at beregne position. Hav MOB-lys og lanterner tændt.
+
+### Strøm på tværs af kursen
+
+- **8–12 år:** Peg båden lidt op mod strømmen og se efter visuelle referencepunkter for at holde linjen mellem to bøjer eller pæle.
+- **12–16 år:** Beregn afdrift: mål difference mellem styret kurs og faktisk kurs, og juster kurs med en vinkel (crab angle). Brug strømtriangel hvis I vil øve navigation på papir.

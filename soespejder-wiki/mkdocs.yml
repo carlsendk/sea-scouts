@@ -17,6 +17,11 @@ nav:
   - VHF & kommunikation: vhf.md
   - Friluftsliv: friluftsliv.md
   - Træning & øvelser: træning.md
+  - Cheatsheets:
+      - VHF: cheatsheets/vhf-cheatsheet.md
+      - Søvejsregler: cheatsheets/regler-quickguide.md
+      - Trim (Optimist): cheatsheets/trim-optimist.md
+      - MOB-checkliste: cheatsheets/mob-checkliste.md
   - Aldersspor: alder.md
   - Mærker: badges.md
 
