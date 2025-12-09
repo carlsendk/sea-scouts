@@ -19,15 +19,15 @@ Punkterne kommer fra korpsets officielle spejderlov【617084591983856†L72-L80�
 
 Spejdermetoden beskriver hvordan vi arbejder med spejderarbejdet. Den består af syv lige vigtige elementer【209067186233765†L114-L139】:
 
-1. **Spejderlov og –løfte** – fælles værdier, vi stræber efter at leve op til.  
-2. **Patruljer** – små selvstændige grupper, der løser opgaver sammen.  
-3. **Learning by doing** – vi lærer ved at prøve ting af, reflektere og øve igen.  
-4. **Samfundsengagement** – vi forholder os aktivt til verden omkring os.  
-5. **Medbestemmelse** – alle får indflydelse på aktiviteter og ansvar.  
-6. **Friluftsliv** – vi lever og lærer i naturen.  
-7. **Personlig udvikling** – vi udfordrer os selv og vokser som mennesker.  
+1. **Spejderlov og –løfte** – fælles værdier, vi stræber efter at leve op til.
+2. **Patruljer** – små selvstændige grupper, der løser opgaver sammen.
+3. **Learning by doing** – vi lærer ved at prøve ting af, reflektere og øve igen.
+4. **Samfundsengagement** – vi forholder os aktivt til verden omkring os.
+5. **Medbestemmelse** – alle får indflydelse på aktiviteter og ansvar.
+6. **Friluftsliv** – vi lever og lærer i naturen.
+7. **Personlig udvikling** – vi udfordrer os selv og vokser som mennesker.
 
-Disse elementer hænger sammen og giver en rød tråd i spejderarbejdet【209067186233765†L141-L152】.
+Se konkrete aktiviteter på vandet og i lejr for hvert element i [Spejdermetoden i praksis](spejdermetoden.md). Elementerne hænger sammen og giver en rød tråd i spejderarbejdet【209067186233765†L141-L152】.
 
 ## Patruljeliv
 
