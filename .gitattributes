@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.md text
+*.yml text
+*.yaml text
+*.txt text
+*.pdf binary
+*.zip binary
