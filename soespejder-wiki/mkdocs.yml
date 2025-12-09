@@ -1,0 +1,26 @@
+
+site_name: Søspejder Wiki
+site_description: Statisk wiki for søspejdere (Optimist, J/70, joller)
+nav:
+  - Hjem: index.md
+  - DDS & Spejderliv:
+      - Spejderliv: dds/spejderliv.md
+  - Sikkerhed: sikkerhed.md
+  - Grundlæggende sejlads: teori.md
+  - Bådtype:
+      - Optimist: boats/optimist.md
+      - J/70: boats/j70.md
+      - Joller: boats/jolle.md
+  - Knob & tovværk: knob.md
+  - Søvejsregler & afmærkning: regler.md
+  - Navigation: navigation.md
+  - VHF & kommunikation: vhf.md
+  - Friluftsliv: friluftsliv.md
+  - Træning & øvelser: træning.md
+  - Aldersspor: alder.md
+  - Mærker: badges.md
+
+# Theme configuration
+theme:
+  name: material
+  language: da
