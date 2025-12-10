@@ -38,11 +38,12 @@ nav:
       - Fartkontrol & stop: sejlads/fartkontrol.md
       - Bølger & timing: sejlads/boelger-timing.md
       - Strøm & afdrift: sejlads/stroem-afdrift.md
-  - Bådtype:
-      - boats/index.md
-      - Optimist: boats/optimist.md
-      - J/70: boats/j70.md
-      - Joller: boats/jolle.md
+      - Havnemanøvrer & fortøjning: sejlads/havnemanoevrer-fortoeljning.md
+      - Bådtype:
+          - boats/index.md
+          - Optimist: boats/optimist.md
+          - J/70: boats/j70.md
+          - Joller: boats/jolle.md
   - Knob & tovværk: knob.md
   - Regler & Navigation:
       - regler-navigation/index.md

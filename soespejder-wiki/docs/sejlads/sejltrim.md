@@ -24,6 +24,17 @@ Trim er små justeringer af sejl og mast, som giver fart og stabilitet.
 === "Hård vind (8+ m/s)"
 - Fladere sejl (cunningham/udhal/kick), mere twist i top; skøde ud i pust.
 
+## Trimtabeller (hurtigt overblik)
+=== "Optimist (vejledende)"
+- Let: løs spryd/udhal, blød skødning, vægt fremme.  
+- Mellem: strammere spryd/udhal, hold båden flad, små skødetrin.  
+- Hård: fladt sejl, åbn top (vang), tidlige pust‑åbninger.
+
+=== "J/70 (vejledende)"
+- Let: lidt dybere storsejl, fok skødepunkt frem, åben top.  
+- Mellem: flad storsejl, justér kicken, finjustér fokskødepunkt.  
+- Hård: mere twist, åbn i pust, fokus på vægt og lav krængning.
+
 ## Kontrol vs. fart
 - Åbent sejl (mere twist) = stabilitet, mindre kraft.  
 - Lukket sejl (mindre twist) = mere kraft, men ustabilt hvis for lukket.

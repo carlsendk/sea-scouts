@@ -28,9 +28,19 @@ Typiske fejl: ukontrolleret bomslag, for meget ror, båden vælter pga. vægt/tr
 - Hold [roret](../ordbog.md#ror) i små bevægelser; åbn sejl på [læns](../ordbog.md#laens).
 
 ## Øvelser
-- 8‑tal bane: to bøjer – 3× vending, 3× bomning i serie.  
-- Stop‑og‑start: stop båden kontrolleret før mærke, sæt i gang.  
-- Spejllege: én båd leder, den anden kopierer manøvrer.
+- [ ] 8‑tal bane: to bøjer – 3× vending, 3× bomning i serie.  
+- [ ] Stop‑og‑start: stop båden kontrolleret før mærke, sæt i gang.  
+- [ ] Spejllege: én båd leder, den anden kopierer manøvrer.
+
+## Kald & timing
+- “Klar til vending/bomning?” – vent på “Klar!” før du starter.  
+- Meld retning/plan: “Vender om 3…2…1…”.  
+- Hold kald korte og rolige; gentag ved tvivl.
+
+## Fejl & fixes (hurtigt)
+- Tab af fart i vending → mindre ror, skift side tidligere, byg fart på halvvind.  
+- Urolig bomning → hold i skøde, kropslav, trim ind på ny halse i små skridt.  
+- Båden krenger → vægt i luv, åbn top (vang/kick) og skød lidt ud.
 
 ## Aldersspor
 === "8–12 år"

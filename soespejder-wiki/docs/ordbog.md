@@ -95,6 +95,35 @@ Drej med vinden (på [læns](#laens)) så bommen passerer båden til ny halse.
 #### Crab‑vinkel
 Lille styrtning op mod vind/strøm for at kompensere [afdrift](#afdrift).
 
+## Rig & sejl
+
+#### Mast
+Lodret stang som bærer sejl og rig. Påvirker sejlets form via bøjning (vang/kick).
+
+#### Bom
+Horisontal stang ved storsejlets underkant (underlig); styrer sejlets vinkel.
+
+#### Storsejl
+Det store sejl bag masten. Trimmes med skøde, udhal, cunningham og vang/kick.
+
+#### Fok
+Det forreste sejl (forsejl). Trimmes primært med fokskøde og skødepunkt.
+
+#### Tell‑tales (vindvisere)
+Små tråde på sejl, der viser luftstrømmen. Bruges til at trimme skødning og vinkel mod vinden.
+
+#### Bakke sejl (backwind)
+Kortvarigt lade vinden presse sejlet fra den “forkerte” side – fx for at stoppe eller dreje.
+
+#### Gå gåsefødder (wing‑on‑wing)
+Sejlads på læns med storsejl og fok åbnet til hver sin side.
+
+#### Plané / planing
+Båden løfter sig og surfer på vandoverfladen ved høj fart (typisk i joller).
+
+#### Luvgerrig / Lægerrig
+Båd som naturligt drejer mod vinden (luvgerrig) eller falder af (lægerrig) pga. trim/balance.
+
 #### Nødragt / Tørdragt
 Isolerende beklædning til koldt vand; tørdragt er vandtæt skal med varme lag under.
 
