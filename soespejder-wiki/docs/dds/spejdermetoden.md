@@ -48,4 +48,5 @@ Brug denne side som ramme for planlægning og debrief. Hvert element er koblet t
 - Selvledelse, planlægning, refleksionsspørgsmål pr. element.
 
 ### Se også
-- [Briefing & debrief](briefing-debrief.md)
+- [Aldersspor](../alder.md)
+- [Mærker](../badges.md)

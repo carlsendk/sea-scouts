@@ -14,7 +14,8 @@ nav:
       - Spejderloven – i praksis: dds/spejderloven-praksis.md
       - Spejdermetoden: dds/spejdermetoden.md
       - Buddy‑system & kommunikation: dds/buddy-system.md
-      - Briefing & debrief: dds/briefing-debrief.md
+      - Aldersspor: alder.md
+      - Mærker: badges.md
   - Sikkerhed: sikkerhed.md
   - Grundlæggende sejlads: teori.md
   - Bådtype:
@@ -33,8 +34,6 @@ nav:
       - Søvejsregler: cheatsheets/regler-quickguide.md
       - Trim (Optimist): cheatsheets/trim-optimist.md
       - MOB-checkliste: cheatsheets/mob-checkliste.md
-  - Aldersspor: alder.md
-  - Mærker: badges.md
 
 # Theme configuration
 theme:

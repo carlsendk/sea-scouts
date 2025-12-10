@@ -13,7 +13,8 @@ Kort overblik og links til underemner. Brug siden som indgang for spejdere og le
 - [Spejderloven – i praksis](spejderloven-praksis.md)  
 - [Spejdermetoden – 7 elementer](spejdermetoden.md)  
 - [Buddy‑system & kommunikation](buddy-system.md)  
-- [Briefing & debrief](briefing-debrief.md)
+- [Aldersspor](../alder.md)  
+- [Mærker](../badges.md)
 
 ## Til ledere
 - Brug Spejdermetoden sammen med briefing‑skabelonen til at planlægge korte træningsblokke.  
