@@ -10,9 +10,9 @@ Trim er små justeringer af sejl og mast, som giver fart og stabilitet.
 
 ## Grundgreb
 - [Skøde](../ordbog.md#skode): ind/ud – vinklen til vinden.  
-- [Fald](../ordbog.md#fald): højden/stramhed i forlig – påvirker sejlets dybde.  
-- Cunningham/udhal: finjusterer form i top/fod.  
-- Kicken: mastens bøjning og twist.
+- [Fald](../ordbog.md#fald): højden/stramhed i [forlig](../ordbog.md#forlig) – påvirker sejlets dybde.  
+- Cunningham/[udhal](../ordbog.md#udhal): finjusterer form i top/[underlig](../ordbog.md#underlig).  
+- [Vang/Kicken](../ordbog.md#vang--kicken): mastens bøjning og [twist](../ordbog.md#twist).
 
 ## Trim efter vind
 === "Let vind (0–3 m/s)"
@@ -33,4 +33,3 @@ Trim er små justeringer af sejl og mast, som giver fart og stabilitet.
 - To‑bådsdrag: små kapstræk med aftalte trimscenarier.
 
 Se også: [Fart & højde](fart-hoejde.md), [Balance & kropsposition](balance.md)
-

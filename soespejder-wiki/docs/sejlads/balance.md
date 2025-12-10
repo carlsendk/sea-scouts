@@ -6,7 +6,7 @@ tags: [sejlads, balance]
 
 # Balance & kropsposition
 
-Kroppens vægt styrer mere end roret. Brug den til fart og stabilitet.
+Kroppens vægt styrer mere end [roret](../ordbog.md#ror). Brug den til fart og stabilitet.
 
 ## Grundprincipper
 - For/aft: frem i let vind, tilbage i bølger/læns.  
@@ -25,4 +25,3 @@ Kroppens vægt styrer mere end roret. Brug den til fart og stabilitet.
 - Brug video/feedback to‑og‑to; mål fart før/efter vægtskift.
 
 Se også: [Fartkontrol & stop](fartkontrol.md), [Sejltrim](sejltrim.md)
-

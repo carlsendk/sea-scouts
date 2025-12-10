@@ -13,7 +13,7 @@ Vind og strøm skubber båden – lær at se det og kompensere.
 - Kig i vandet: tang/skum bevæger sig ift. båden.
 
 ## Kompensér
-- Styr lidt op mod strøm/vind (crab‑vinkel).  
+- Styr lidt op mod strøm/vind ([crab‑vinkel](../ordbog.md#crab-vinkel)).  
 - Brug [pejling](../ordbog.md#pejling) to gange for at bekræfte din position.
 
 ## Øvelser
@@ -21,4 +21,3 @@ Vind og strøm skubber båden – lær at se det og kompensere.
 - Krydspejling light: tag to pejlinger mod land og se bevægelsen.
 
 Se også: [Navigation](../navigation.md), [Balance & kropsposition](balance.md)
-

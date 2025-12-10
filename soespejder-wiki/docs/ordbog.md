@@ -72,6 +72,29 @@ Den side der er i læ for vinden (modsatte af luv).
 #### Spryd
 Stang i Optimist, der spænder sejlet ud.
 
+## Sejldele & trim
+
+#### Vang / Kicken
+Line/beslag der trækker bommen ned og styrer twist (åbning i sejlets top).
+
+#### Forlig
+Sejlets forkant (ved mast/forstag); strammes med [fald](#fald) og cunningham.
+
+#### Underlig
+Sejlets nederste kant (fod); strammes med [udhal](#udhal).
+
+#### Halse
+Den side vinden kommer ind over – skifter ved vending/bomning.
+
+#### Vending (tack)
+Drej gennem vinden op mod [bidevind](#bidevind) til ny halse.
+
+#### Bomning (gybe)
+Drej med vinden (på [læns](#laens)) så bommen passerer båden til ny halse.
+
+#### Crab‑vinkel
+Lille styrtning op mod vind/strøm for at kompensere [afdrift](#afdrift).
+
 #### Nødragt / Tørdragt
 Isolerende beklædning til koldt vand; tørdragt er vandtæt skal med varme lag under.
 

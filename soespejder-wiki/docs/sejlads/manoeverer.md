@@ -6,17 +6,17 @@ tags: [sejlads, manøvrer]
 
 # Manøvrer – vending og bomning
 
-## Vending (tack)
+## Vending ([tack](../ordbog.md#vending-tack))
 1. Se efter plads og sig højt: “Klar til vending?”  
 2. Svar: “Klar!” – båden rettes op og fart holdes.  
 3. Drej roligt mod [bidevind](../ordbog.md#bidevind); skift side midt i drejet.  
-4. Skød sejl ind på ny halse, ret båden op og find fart.
+4. Skød sejl ind på ny [halse](../ordbog.md#halse), ret båden op og find fart.
 
 Typiske fejl: for hårdt ror (tab af fart), sent sideskift, sejl ikke trimmet på ny kurs.
 
-## Bomning (gybe)
+## Bomning ([gybe](../ordbog.md#bomning-gybe))
 1. Sig: “Klar til bomning?” – “Klar!”.  
-2. Hold fart på [læns](../ordbog.md#laens); kontroller bommen med skøde.  
+2. Hold fart på [læns](../ordbog.md#laens); kontroller bommen med [skøde](../ordbog.md#skode).  
 3. Bom over – hold hoved lavt; skift side og stabiliser båden.  
 4. Trim sejl på ny kurs.
 
@@ -37,4 +37,3 @@ Typiske fejl: ukontrolleret bomslag, for meget ror, båden vælter pga. vægt/tr
 - To‑bådsøvelser med rollebytte.
 
 Se også: [Fartkontrol & stop](fartkontrol.md), [Sejltrim](sejltrim.md), [Bådtype](../boats/index.md)
-
