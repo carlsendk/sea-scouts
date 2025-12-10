@@ -59,7 +59,18 @@ nav:
           - Joller: boats/jolle.md
           - Følgebåde & motorbåde: boats/foelgebaade.md
           - Båd‑checklister: boats/checklister.md
-  - Knob & tovværk: knob.md
+  - Knob & tovværk:
+      - knob/index.md
+      - Pælestik: knob/paelestik.md
+      - Dobbelt pælestik: knob/dobbelt-paelestik.md
+      - Ottetalsknob: knob/ottetalsknob.md
+      - Råbåndsknob: knob/raabaandsknob.md
+      - Flagknob: knob/flagknob.md
+      - Bøjline / Skødestik: knob/skodestik.md
+      - Prusik: knob/prusik.md
+      - Halvstik: knob/halvstik.md
+      - Ankerstik: knob/ankerstik.md
+      - Splidsning: knob/splidsning.md
   - Regler & Navigation:
       - regler-navigation/index.md
       - Søvejsregler & afmærkning: regler.md

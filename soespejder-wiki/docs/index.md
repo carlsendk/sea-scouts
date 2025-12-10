@@ -12,7 +12,7 @@ Her finder du alt fra spejderlov og spejdermetode til sejlads, sikkerhed og fril
 - [Sikkerhed](sikkerhed/index.md)
 - [Grundlæggende sejlads](teori.md)
 - [Bådtype](boats/optimist.md)
-- [Knob & tovværk](knob.md)
+- [Knob & tovværk](knob/index.md)
 - [Søvejsregler & afmærkning](regler.md)
 - [Navigation](navigation.md)
 - [VHF & kommunikation](vhf.md)
