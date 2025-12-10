@@ -22,6 +22,7 @@ Her finder du de mest brugte knob for søspejdere. Vælg et knob for trin‑for�
 | [Halvstik (enkelt/dobbelt)](halvstik.md) | Simpelt knob til afslutning eller fastgørelse om pæl. | Dobbelt halvstik giver mere sikkerhed. |
 | [Ankerstik](ankerstik.md) | Fastgør kæde/ankerblok til tovværk. | Stram og “kæm” knobbet. |
 | [Splidsning](splidsning.md) | Fletter tovværk sammen; stærke samlinger/øjer. | Brug fid/tape; hold styr på kordeler. |
+| [Takling](takling.md) | Sikrer lineende mod at flosse; pæn afslutning. | Sy‑/surrings‑takling; brug voks/lim for holdbarhed. |
 
 ## Knob
 - [Pælestik](paelestik.md) – fast løkke til pæl/øje  
@@ -34,6 +35,7 @@ Her finder du de mest brugte knob for søspejdere. Vælg et knob for trin‑for�
 - [Halvstik (enkelt/dobbelt)](halvstik.md) – afslutning/fastgørelse  
 - [Ankerstik](ankerstik.md) – kæde/ankerline  
 - [Splidsning](splidsning.md) – stærk samling uden knob
+- [Takling](takling.md) – sikring af lineende
 
 Se også
 - Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
