@@ -83,6 +83,7 @@ nav:
       - Søvejsregler: cheatsheets/regler-quickguide.md
       - Trim (Optimist): cheatsheets/trim-optimist.md
       - MOB-checkliste: cheatsheets/mob-checkliste.md
+      - Morse: cheatsheets/morse-cheatsheet.md
 
 # Theme configuration
 theme:
