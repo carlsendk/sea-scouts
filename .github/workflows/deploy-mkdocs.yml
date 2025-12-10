@@ -35,12 +35,13 @@ jobs:
           pip install -r soespejder-wiki/requirements.txt
 
       - name: Build site
-        run: mkdocs build --config-file soespejder-wiki/mkdocs.yml --site-dir site
+        working-directory: soespejder-wiki
+        run: mkdocs build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: soespejder-wiki/site
 
   deploy:
     environment:
