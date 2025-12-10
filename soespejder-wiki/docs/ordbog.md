@@ -134,6 +134,15 @@ Pligt til at holde klar af et andet fartøj.
 #### Lanterner
 Skibslys der viser retning/type af fartøj i mørke.
 
+#### Nødraket / Faldskærmsraket
+Rød raket der stiger højt og signalerer nød over lange afstande.
+
+#### Håndblus (rød/hvid)
+Rødt = nød/nærkending; hvidt = advarsel/antikolission.
+
+#### Røgsignal (orange)
+Dagslys‑signal der markerer position – fx ved MOB.
+
 ## Sundhed og sikkerhed
 
 #### Hypotermi

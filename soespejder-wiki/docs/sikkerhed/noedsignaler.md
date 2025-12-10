@@ -24,6 +24,22 @@ Eksempel (MAYDAY):
 - Fløjte/horn: 1 kort = styrbord, 2 korte = bagbord, 3 korte = bak.  
 - Lygte: blink for opmærksomhed; tænd lanterner i mørke.
 
+## Pyrotekniske nødsignaler (raketter, blus og røg)
+
+Brug kun pyroteknik ved reel nødsituation, og følg lokale regler. Håndteres af leder/voksen.
+
+- Rød faldskærmsraket (parachute): langtrækkende nødsignal om natten/dårlig sigt. Skyd lodret, hold afstand til sejl/rig. Risiko for nedfald og brand.
+- Rødt håndblus: nærkending – gør jer lette at finde tæt på redningsbåd/land i mørke. Hold i strakt arm, væk fra krop/tøj og i læ for vinden.
+- Orange røg: dagslys‑signal til positionsmarkering. God ved [MOB](../ordbog.md#mob) i dagtimer. Læs brugsanvisning (flydende dåse vs. håndrøg).
+- Hvidt håndblus: advarsel/antikolission for at gøre opmærksom på jer – ikke et nødopkald.
+
+Sikkerhed og ansvar
+- Tjek udløbsdato mindst én gang årligt; opbevar tørt og utilgængeligt for børn.  
+- Bortskaffelse af udløbet pyroteknik sker via myndigheder/forhandler – aldrig i almindeligt affald.  
+- Øv med video/instruktør eller inerte træningsmidler – ikke skarpe blus med børn.
+
+Prioritet: Kald først hjælp via [VHF](../ordbog.md#vhf)/telefon. Pyroteknik supplerer for at blive fundet.
+
 ## Aldersspor
 === "8–12 år"
 - Kender kanal 16 og råber “MOB!”.  
@@ -36,4 +52,3 @@ Eksempel (MAYDAY):
 ## Øv det
 - Lav rollespil: en kalder, en svarer, en skriver ned.  
 - Brug [VHF‑cheatsheet](../cheatsheets/vhf-cheatsheet.md).
-
