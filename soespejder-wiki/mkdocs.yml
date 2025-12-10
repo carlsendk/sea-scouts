@@ -71,7 +71,12 @@ nav:
       - Lydsignaler: kommunikation/lydsignaler.md
       - Passagesignaler: kommunikation/passagesignaler.md
       - Signalflag: kommunikation/signalflag.md
-      - Nødsignaler: sikkerhed/noedsignaler.md
+      - Nødsignaler:
+          - kommunikation/noedsignaler/index.md
+          - VHF – nødkald: kommunikation/noedsignaler/vhf-noedkald.md
+          - Pyroteknik: kommunikation/noedsignaler/pyroteknik.md
+          - Lyd & lys: kommunikation/noedsignaler/lyd-lys.md
+          - Flag & visuelle: kommunikation/noedsignaler/flag-visuelle.md
   - Træning & øvelser: træning.md
   - Cheatsheets:
       - VHF: cheatsheets/vhf-cheatsheet.md

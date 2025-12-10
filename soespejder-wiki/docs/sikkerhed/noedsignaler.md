@@ -8,6 +8,8 @@ tags: [sikkerhed, vhf]
 
 Brug korrekte meldinger og hold ro. Øv standardfraser på land.
 
+Se også den fulde sektion: [Kommunikation → Nødsignaler](../kommunikation/noedsignaler/index.md) for detaljer og eksempler.
+
 ## VHF
 - Nød (MAYDAY): livsfare.  
 - Hasarderet (PAN‑PAN): har brug for hjælp, ikke livsfare.  
