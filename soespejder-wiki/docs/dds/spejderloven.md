@@ -1,3 +1,9 @@
+---
+title: Spejderloven (DDS)
+description: Den officielle ordlyd af spejderloven i Det Danske Spejderkorps.
+tags: [dds, spejderloven]
+---
+
 # Spejderloven (DDS)
 
 Det Danske Spejderkorps’ spejderlov består af syv punkter. Som spejder lover du at gøre dit bedste for at:
@@ -26,3 +32,7 @@ Jeg vil finde min egen tro og have respekt for andres.
 ---
 
 *Note: Officiel ordlyd fra Det Danske Spejderkorps’ hjemmeside (spejderloven på dds.dk).* 
+
+### Se også
+- [Spejderloven – i praksis](spejderloven-praksis.md)  
+- [Spejdermetoden – 7 elementer](spejdermetoden.md)

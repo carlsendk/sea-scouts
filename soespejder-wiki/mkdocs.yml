@@ -8,7 +8,7 @@ strict: true
 
 nav:
   - Hjem: index.md
-  - DDS & Spejderliv:
+  - DDS & Spejderliv: dds/index.md
       - Spejderliv: dds/spejderliv.md
       - Spejderloven (ordlyd): dds/spejderloven.md
       - Spejderloven – i praksis: dds/spejderloven-praksis.md
@@ -41,6 +41,7 @@ theme:
   language: da
   features:
     - navigation.sections
+    - navigation.indexes
     - navigation.expand
     - navigation.top
     - navigation.tracking
