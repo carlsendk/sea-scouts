@@ -25,5 +25,4 @@ Sikkerhedsinformation (tåge, vrag, farligt objekt).
 
 Tips: Gentag position; hav papirseddel med skabelon i båden.
 
-Se også: [Lyd & lys](lyd-lys.md), [Pyroteknik](pyroteknik.md), [VHF – basics](../vhf.md)
-
+Se også: [Lyd & lys](lyd-lys.md), [Pyroteknik](pyroteknik.md), [VHF – basics](../../vhf.md)

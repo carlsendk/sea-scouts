@@ -14,5 +14,4 @@ Brug de rigtige signaler for at få hurtig hjælp. Kald altid først – suppler
 - [Lyd & lys – fem korte, lyssignaler](lyd-lys.md)  
 - [Flag & visuelle signaler](flag-visuelle.md)
 
-Se også: [Sikkerhed](../../sikkerhed/index.md), [VHF & kommunikation](../vhf.md)
-
+Se også: [Sikkerhed](../../sikkerhed/index.md), [VHF & kommunikation](../../vhf.md)
