@@ -6,43 +6,41 @@ tags: [dds, aktiviteter, planlægning]
 
 # DDS Aktiviteter – guide
 
-Den officielle aktivitetsbank på dds.dk rummer idéer og forløb, som vi kan bruge direkte i søspejder‑træning. Her er en hurtig guide og måder at koble databasen til wiki’en.
+DDS har en officiel aktivitetsbank på dds.dk/aktiviteter med idéer og forløb, som vi kan bruge som inspiration til møder og ture. Nedenfor beskriver vi, hvordan du får mest ud af den – uden indlejring (embed), som oftest er blokeret af sikkerhedshensyn.
 
-## Hurtig søgning
+## Hvor finder jeg den?
 
-Brug søgefeltet herunder til at åbne en søgning på dds.dk i en ny fane.
+- Åbn i ny fane: https://dds.dk/aktiviteter  
+- Søg med enkle nøgleord (f.eks. “Optimist”, “J70”, “MOB”, “VHF”, “navigation”, “kæntring”, “knob”).  
+- Brug filtre (alder, kategori) til at målrette til 8–12 eller 12–16 år.
 
-<form action="https://dds.dk/aktiviteter" method="get" target="_blank">
-  <input name="q" type="text" placeholder="Søg fx: MOB, J/70, Optimist, VHF" style="padding:8px; min-width: 260px;">
-  <button type="submit" style="padding:8px 12px;">Søg på dds.dk</button>
-</form>
+## Hurtige søgeforslag (copy‑paste i dds.dk)
 
-Hurtiglinks:
+- “MOB” – mand‑over‑bord‑øvelser, kasteline, redning  
+- “VHF” – radio, opkaldsprocedure, rollespil  
+- “Optimist” eller “jolle” – rigging, sejlpunkter, manøvrer på land/vand  
+- “J70” – roller, teamwork, gennaker  
+- “navigation” – pejling, søkort, kompas  
+- “knob” – pælestik, råbånd, ottetalsknob
 
-- MOB: https://dds.dk/aktiviteter?q=MOB  
-- Optimist/jolle: https://dds.dk/aktiviteter?q=optimist  
-- J/70: https://dds.dk/aktiviteter?q=J70  
-- VHF/radio: https://dds.dk/aktiviteter?q=VHF
+## Sådan bruger du den i praksis
 
-## Indlejring (embed)
+Planlægning af spejdermøde (30–60 min blokke):
 
-Vi kan forsøge at indlejre et udsnit med en iframe (nedenfor). Nogle sider blokerer indlejring af sikkerhedshensyn (X‑Frame‑Options), så visningen kan være tom – brug i så fald søgefeltet ovenfor.
+1) Vælg fokus fra wiki’en (fx [MOB](cheatsheets/mob-checkliste.md), [VHF](vhf.md), [Sejlads](teori.md)).  
+2) Find 1–2 relaterede aktiviteter på dds.dk/aktiviteter (copy‑paste nøgleord).  
+3) Tilpas til alder: 
+   - 8–12 år: kort instruktion, flere gentagelser og lege.  
+   - 12–16 år: mere selvledelse, scenarier og rollefordeling.  
+4) Afslut med mini‑debrief: “Hvad virkede? Hvad prøver vi næste gang?”
 
-<div class="embed" style="aspect-ratio: 16/9; border:1px solid #ddd;">
-  <iframe src="https://dds.dk/aktiviteter?q=s%C3%B8spejder" style="width:100%; height:100%; border:0;" loading="lazy" referrerpolicy="no-referrer"></iframe>
-  <noscript>
-    <p>Kan ikke vise indlejret indhold. Åbn i ny fane: <a href="https://dds.dk/aktiviteter">dds.dk/aktiviteter</a></p>
-  </noscript>
-</div>
+På tur (2–3 timer dagsprogram):
 
-Tips ved blokering:
+- Brug aktivitetsbankens idéer som “land‑moduler” (fx knob, VHF‑rollespil, navigation på land).  
+- Kombinér med vand‑moduler fra wiki’en (sejlads, MOB‑øvelser).  
+- Husk sikkerhed: [Sikkerhed](sikkerhed.md), [Vejrgrænser](sikkerhed.md#vejrgrænser), buddy‑system.
 
-- Åbn via link eller søgefeltet (ny fane).
-- Link direkte fra relevante wiki‑sider (fx MOB, VHF) til en præ‑filtreret søgning.
+## Hvorfor ikke embed?
 
-## Sådan kobler vi til træning
-
-- I hvert wiki‑emne kan vi tilføje “Se også på dds.dk/aktiviteter: …” med et link til en forudfyldt søgning.  
-- Mærkesider kan henvise til konkrete aktiviteter, der passer ind i forløbet (fx “kastelineøvelse”, “sejlpunkter på land”).  
-- Brug DDS‑forløb som inspiration, men hold fokus på sø‑sikkerhed og praksis på vandet.
+De fleste eksterne sider – inkl. dds.dk – sætter sikkerheds‑headers (X‑Frame‑Options), som blokerer for indlejring i andre hjemmesider. Derfor viser vi ikke aktivitetsbanken inde i wiki’en, men guider til at åbne den i ny fane og bruge den målrettet sammen med vores materiale.
 
