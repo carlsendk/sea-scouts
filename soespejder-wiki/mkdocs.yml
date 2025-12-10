@@ -91,6 +91,24 @@ nav:
           - Kardinal – Syd: regler-navigation/afmaerkning/kardinal-syd.md
           - Kardinal – Øst: regler-navigation/afmaerkning/kardinal-oest.md
           - Kardinal – Vest: regler-navigation/afmaerkning/kardinal-vest.md
+      - Skibslys & signalfigurer:
+          - regler-navigation/lanterner/index.md
+          - Sejlskib: regler-navigation/lanterner/sejlskib.md
+          - Maskindrevet: regler-navigation/lanterner/maskindrevet.md
+          - Fiskeskib: regler-navigation/lanterner/fiskeskib.md
+          - Trawler: regler-navigation/lanterner/trawler.md
+          - Lodsbåd: regler-navigation/lanterner/lodsbaad.md
+          - Ankerligger: regler-navigation/lanterner/ankerligger.md
+          - Ikke under kommando: regler-navigation/lanterner/nuc.md
+          - Begrænset manøvreevne: regler-navigation/lanterner/ram.md
+          - Minerydningsfartøj: regler-navigation/lanterner/minerydning.md
+          - Uddybning/dykning/undervandsarbejde: regler-navigation/lanterner/uddybning-dykker.md
+          - Hæmmet af dybgang: regler-navigation/lanterner/draught.md
+          - Grundstøder: regler-navigation/lanterner/aground.md
+          - Slæbebåd/tog: regler-navigation/lanterner/towing.md
+          - Dykker i vandet: regler-navigation/lanterner/dykker.md
+          - Luftpudefartøj: regler-navigation/lanterner/hovercraft.md
+          - WIG‑fartøj: regler-navigation/lanterner/wig.md
   - Kommunikation:
       - kommunikation/index.md
       - VHF & kommunikation: vhf.md
