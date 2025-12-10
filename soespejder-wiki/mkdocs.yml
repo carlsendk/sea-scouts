@@ -8,6 +8,7 @@ strict: true
 
 nav:
   - Hjem: index.md
+  - Ordbog: ordbog.md
   - DDS & Spejderliv:
       - dds/index.md
       - Spejderliv: dds/spejderliv.md
@@ -67,7 +68,6 @@ nav:
   - Kommunikation:
       - kommunikation/index.md
       - VHF & kommunikation: vhf.md
-  - Ordbog: ordbog.md
   - Træning & øvelser: træning.md
   - Cheatsheets:
       - VHF: cheatsheets/vhf-cheatsheet.md
