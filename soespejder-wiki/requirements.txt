@@ -3,3 +3,4 @@ mkdocs-material>=9.5.17
 mkdocs-glightbox>=0.4.0
 mkdocs-git-revision-date-localized-plugin>=1.2.0
 mkdocs-minify-plugin>=0.7.2
+mkdocs-sitemap-plugin
