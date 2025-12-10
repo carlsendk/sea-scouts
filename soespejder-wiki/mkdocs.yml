@@ -82,6 +82,9 @@ extra:
       link: https://github.com/sea-scouts/sea-scouts
       name: GitHub
 
+extra_javascript:
+  - assets/js/autolink.js
+
 plugins:
   - search:
       lang: da
