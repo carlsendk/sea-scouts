@@ -46,3 +46,6 @@ Praksis: Brug horn/fløjte; hold udkig, reducer fart og vis lys efter reglerne.
 - Tåge‑drill: kør igennem hvem der sender hvilke signaler i mandskabet.
 
 Se også: [Søvejsregler & afmærkning](../regler.md), [Nødsignaler – Lyd & lys](noedsignaler/lyd-lys.md)
+
+Ekstern reference
+- Sejlguide – lydsignaler: https://www.sejlguide.dk/7-lydsignaler/
