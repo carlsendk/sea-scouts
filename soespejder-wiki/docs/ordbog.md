@@ -230,6 +230,12 @@ Forkortede morse‑“ord” som K (over), AR (slut), SK (skifter af), BK (pause
 #### Lydsignaler
 Horn/fløjte‑signaler til manøvrer, møde og tåge; se [Lydsignaler](kommunikation/lydsignaler.md).
 
+#### Kort tone / Lang tone
+Kort ≈ 1 sekund, lang ≈ 4–6 sekunder. Bruges i lydsignaler efter reglerne.
+
+#### Begrænset sigtbarhed
+Tåge/dis/regn som kræver særlige lydsignaler og forsigtig fart.
+
 #### Passagesignaler
 Signaler i snævre løb/møde for at aftale passage; se [Passagesignaler](kommunikation/passagesignaler.md).
 
