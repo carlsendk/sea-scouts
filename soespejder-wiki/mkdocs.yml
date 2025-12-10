@@ -19,7 +19,7 @@ nav:
       - Mærker: badges.md
       - Aktiviteter (DDS): aktiviteter.md
   - Sikkerhed:
-      - sikkerhed.md
+      - sikkerhed/index.md
       - Nødragt & beklædning: sikkerhed/noedragt-beklaedning.md
       - Personligt udstyr: sikkerhed/personligt-udstyr.md
       - Vejrgrænser: sikkerhed/vejrgraenser.md

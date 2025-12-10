@@ -13,7 +13,7 @@ Læs:
 1. [VHF & kommunikation](../vhf.md) – krav, kanaler og opkald.  
 2. Cheatsheet: [VHF‑kort](../cheatsheets/vhf-cheatsheet.md).
 
-Se også: [Sikkerhed](../sikkerhed.md), [MOB‑checkliste](../cheatsheets/mob-checkliste.md).
+Se også: [Sikkerhed](../sikkerhed/index.md), [MOB‑checkliste](../cheatsheets/mob-checkliste.md).
 
 ## Aldersspor
 
@@ -24,4 +24,3 @@ Se også: [Sikkerhed](../sikkerhed.md), [MOB‑checkliste](../cheatsheets/mob-ch
 === "12–16 år"
 - Standardopkald og simpel nødkaldsstruktur.  
 - Brug af arbejds‑kanaler og radiodisciplin.
-

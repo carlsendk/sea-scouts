@@ -25,7 +25,7 @@ Kort: Teamwork ombord – roller, trim og manøvrer.
 - Korte notater om trimvalg ved forskellig vind.
 
 ## Sikkerhed
-Handsker, ryd cockpit, klar kommunikation. Se [Sikkerhed](../sikkerhed.md).
+Handsker, ryd cockpit, klar kommunikation. Se [Sikkerhed](../sikkerhed/index.md).
 
 ## Officiel side
 Find mærket på dds.dk: https://dds.dk/maerker

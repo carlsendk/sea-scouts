@@ -34,6 +34,6 @@ To og to følges ad som makkere – på land og på vand. Man holder øje med hi
 - 12–16 år: patruljefører leder kald og bekræftelser.
 
 ### Se også
-- [Sikkerhed](../sikkerhed.md)  
+- [Sikkerhed](../sikkerhed/index.md)  
 - [VHF & kommunikation](../vhf.md)  
 - [MOB‑checkliste](../cheatsheets/mob-checkliste.md)

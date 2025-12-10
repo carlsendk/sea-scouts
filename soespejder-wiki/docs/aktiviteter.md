@@ -36,5 +36,4 @@ På tur (2–3 timer dagsprogram):
 
 - Brug aktivitetsbankens idéer som “land‑moduler” (fx knob, VHF‑rollespil, navigation på land).  
 - Kombinér med vand‑moduler fra wiki’en (sejlads, MOB‑øvelser).  
-- Husk sikkerhed: [Sikkerhed](sikkerhed.md), [Vejrgrænser](sikkerhed.md#vejrgrænser), buddy‑system.
-
+- Husk sikkerhed: [Sikkerhed](sikkerhed/index.md), [Vejrgrænser](sikkerhed/vejrgraenser.md), buddy‑system.

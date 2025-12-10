@@ -12,5 +12,4 @@ Vælg båden og dyk ned i guides:
 - [J/70](j70.md) – roller, rigging, trim og gennaker.  
 - [Joller](jolle.md) – generel jolleviden og kæntring.
 
-Se også: [Sejlads](../sejlads/index.md), [Sikkerhed](../sikkerhed.md).
-
+Se også: [Sejlads](../sejlads/index.md), [Sikkerhed](../sikkerhed/index.md).

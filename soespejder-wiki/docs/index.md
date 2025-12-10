@@ -9,7 +9,7 @@ Velkommen til Søspejder Wiki – en statisk wiki for spejdere og ledere i Det D
 Her finder du alt fra spejderlov og spejdermetode til sejlads, sikkerhed og friluftsliv. Brug menuen til venstre for at navigere mellem emnerne eller gå direkte til:
 
 - [DDS & Spejderliv](dds/spejderliv.md)
-- [Sikkerhed](sikkerhed.md)
+- [Sikkerhed](sikkerhed/index.md)
 - [Grundlæggende sejlads](teori.md)
 - [Bådtype](boats/optimist.md)
 - [Knob & tovværk](knob.md)

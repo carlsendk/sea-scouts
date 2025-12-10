@@ -10,7 +10,7 @@ Kort: Planlægning, navigation og ansvar for en kort tur.
 
 ## Forløb 8–12 år
 - [ ] Vælg område og lav enkel rute A→B.  
-- [ ] Tjek [sikkerhed](../sikkerhed.md) og vejr sammen.  
+- [ ] Tjek [sikkerhed](../sikkerhed/index.md) og vejr sammen.  
 - [ ] Gennemfør tur i dagslys med følgebåd.
 
 ## Forløb 12–16 år

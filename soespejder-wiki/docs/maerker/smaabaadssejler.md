@@ -28,7 +28,7 @@ Kort: Lær rigging, basale manøvrer og sikkerhed i jolle/Optimist.
 - Foto af rigging eller manøvre.
 
 ## Sikkerhed
-Se [Sikkerhed](../sikkerhed.md). Brug følgebåd og hold øje med vejrgrænser.
+Se [Sikkerhed](../sikkerhed/index.md). Brug følgebåd og hold øje med vejrgrænser.
 
 ## Officiel side
 Find mærket på dds.dk: https://dds.dk/maerker
