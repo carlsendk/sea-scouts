@@ -1,0 +1,40 @@
+---
+title: Manøvrer – vending og bomning
+description: Trin-for-trin for vending/bomning med øvelser og aldersspor.
+tags: [sejlads, manøvrer]
+---
+
+# Manøvrer – vending og bomning
+
+## Vending (tack)
+1. Se efter plads og sig højt: “Klar til vending?”  
+2. Svar: “Klar!” – båden rettes op og fart holdes.  
+3. Drej roligt mod [bidevind](../ordbog.md#bidevind); skift side midt i drejet.  
+4. Skød sejl ind på ny halse, ret båden op og find fart.
+
+Typiske fejl: for hårdt ror (tab af fart), sent sideskift, sejl ikke trimmet på ny kurs.
+
+## Bomning (gybe)
+1. Sig: “Klar til bomning?” – “Klar!”.  
+2. Hold fart på [læns](../ordbog.md#laens); kontroller bommen med skøde.  
+3. Bom over – hold hoved lavt; skift side og stabiliser båden.  
+4. Trim sejl på ny kurs.
+
+Typiske fejl: ukontrolleret bomslag, for meget ror, båden vælter pga. vægt/trim.
+
+## Øvelser
+- 8‑tal bane: to bøjer – 3× vending, 3× bomning i serie.  
+- Stop‑og‑start: stop båden kontrolleret før mærke, sæt i gang.  
+- Spejllege: én båd leder, den anden kopierer manøvrer.
+
+## Aldersspor
+=== "8–12 år"
+- Tal højt, peg retning, skift side tidligt; korte serier tæt ved bro.  
+- Leder styrer tempo og sikkerhedsafstand.
+
+=== "12–16 år"
+- Fokus på fartbevarelse (småt ror), clean bomning og hurtig trim på ny kurs.  
+- To‑bådsøvelser med rollebytte.
+
+Se også: [Fartkontrol & stop](fartkontrol.md), [Sejltrim](sejltrim.md), [Bådtype](../boats/index.md)
+

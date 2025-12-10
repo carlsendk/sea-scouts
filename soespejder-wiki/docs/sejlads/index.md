@@ -6,20 +6,26 @@ tags: [sejlads, teori]
 
 # Sejlads – overblik
 
-Her starter du, hvis du vil lære at sejle. Læs i denne rækkefølge:
+Start her for at lære at sejle – fra vindforståelse til manøvrer og fartkontrol.
 
-1. [Grundlæggende sejlads](../teori.md) – vind, sejlpunkter, balance og ror.  
-2. Øv manøvrer på vandet (vending/bomning) med fokus på kropsarbejde.  
-3. Brug billeder/diagrammer og lav små lege for at få fart og kontrol.
+## Hvad finder du her?
+- [Grundlæggende sejlads](../teori.md)  
+- [Manøvrer](manoeverer.md)  
+- [Sejltrim](sejltrim.md)  
+- [Fart & højde](fart-hoejde.md)  
+- [Balance & kropsposition](balance.md)  
+- [Fartkontrol & stop](fartkontrol.md)  
+- [Bølger & timing](boelger-timing.md)  
+- [Strøm & afdrift](stroem-afdrift.md)
 
-Se også: [Ordbog](../ordbog.md), [Sikkerhed](../sikkerhed/index.md), [Træning](../træning.md).
+Se også: [Ordbog](../ordbog.md), [Sikkerhed](../sikkerhed/index.md), [Bådtype](../boats/index.md), [Træning](../træning.md).
 
 ## Aldersspor
 
 === "8–12 år"
 - Korte øvelser, tydelige mål: én manøvre ad gangen.  
-- Brug diagrammer og simple tjeklister.
+- Leg og gentagelser – fokus på tryghed og simple succeser.
 
 === "12–16 år"
 - Selvstændig rigging/fejlretning og to-bådsøvelser.  
-- Introduktion til fart vs. højde og bølger/strøm.
+- Introduktion til fart vs. højde, bølger/strøm og små taktiske valg.

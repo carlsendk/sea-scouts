@@ -29,8 +29,15 @@ nav:
       - Hypotermi & førstehjælp: sikkerhed/hypotermi-foerstehjaelp.md
       - Nødsignaler: sikkerhed/noedsignaler.md
   - Sejlads:
-      - sejlads/index.md
+      - Oversigt: sejlads/index.md
       - Grundlæggende sejlads: teori.md
+      - Manøvrer: sejlads/manoeverer.md
+      - Sejltrim: sejlads/sejltrim.md
+      - Fart & højde: sejlads/fart-hoejde.md
+      - Balance & kropsposition: sejlads/balance.md
+      - Fartkontrol & stop: sejlads/fartkontrol.md
+      - Bølger & timing: sejlads/boelger-timing.md
+      - Strøm & afdrift: sejlads/stroem-afdrift.md
   - Bådtype:
       - boats/index.md
       - Optimist: boats/optimist.md
