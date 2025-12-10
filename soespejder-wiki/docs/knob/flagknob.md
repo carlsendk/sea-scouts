@@ -15,6 +15,13 @@ tags: [knob]
 3. Stram og kontroller at enderne ligger korrekt modsat bugten.
 
 ## Video
+- Embed (udskift VIDEO_ID med ønsket YouTube‑ID):
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIDEO_ID?rel=0" title="Flagknob – video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><em>Tip: Indsæt din foretrukne instruktionsvideo ovenfor.</em></p>
+</div>
+
 - YouTube (dansk søgning): https://www.youtube.com/results?search_query=flagknob  
 - YouTube (engelsk søgning): https://www.youtube.com/results?search_query=flag+knot
 

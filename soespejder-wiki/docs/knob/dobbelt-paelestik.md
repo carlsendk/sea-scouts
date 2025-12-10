@@ -17,6 +17,13 @@ tags: [knob, pælestik]
 - Sammenlign holdstyrke med enkelt pælestik ved ryk.
 
 ## Video
+- Embed (udskift VIDEO_ID med ønsket YouTube‑ID):
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIDEO_ID?rel=0" title="Dobbelt pælestik – video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><em>Tip: Indsæt din foretrukne instruktionsvideo ovenfor.</em></p>
+</div>
+
 - YouTube (dansk søgning): https://www.youtube.com/results?search_query=dobbelt+p%C3%A6lestik  
 - YouTube (engelsk søgning): https://www.youtube.com/results?search_query=bowline+variations
 

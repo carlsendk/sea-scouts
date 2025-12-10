@@ -18,6 +18,13 @@ tags: [knob]
 - Test under belastning; lær forskel på råbånd og skovknob.
 
 ## Video
+- Embed (udskift VIDEO_ID med ønsket YouTube‑ID):
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VIDEO_ID?rel=0" title="Råbåndsknob – video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <p><em>Tip: Indsæt din foretrukne instruktionsvideo ovenfor.</em></p>
+</div>
+
 - YouTube (dansk søgning): https://www.youtube.com/results?search_query=r%C3%A5b%C3%A5ndsknob  
 - YouTube (engelsk søgning): https://www.youtube.com/results?search_query=reef+knot
 
