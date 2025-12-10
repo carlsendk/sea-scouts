@@ -195,6 +195,12 @@ Rødt = nød/nærkending; hvidt = advarsel/antikolission.
 #### Røgsignal (orange)
 Dagslys‑signal der markerer position – fx ved MOB.
 
+#### EPIRB
+Emergency Position‑Indicating Radio Beacon – nødradiobøje der sender automatisk nødsignal/position via satellit.
+
+#### Farvemarkering
+F.eks. farvestof i vandet/orange markeringsdug for at gøre position synlig fra luften.
+
 ## Havn & fortøjning
 
 #### Fendere / Fender

@@ -11,7 +11,8 @@ Brug de rigtige signaler for at få hurtig hjælp. Kald altid først – suppler
 ## Hvad finder du her?
 - [VHF – nødkald (MAYDAY, PAN‑PAN, SECURITÉ)](vhf-noedkald.md)  
 - [Pyroteknik – raketter, håndblus og røg](pyroteknik.md)  
-- [Lyd & lys – fem korte, lyssignaler](lyd-lys.md)  
-- [Flag & visuelle signaler](flag-visuelle.md)
+- [Lyd & lys – fem korte, lyssignaler, ild, kanonslag](lyd-lys.md)  
+- [Flag & visuelle – NC, arme, flag/kugle, farvemarkering](flag-visuelle.md)  
+- [EPIRB – nødradiobøje](epirb.md)
 
 Se også: [Sikkerhed](../../sikkerhed/index.md), [VHF & kommunikation](../../vhf.md)

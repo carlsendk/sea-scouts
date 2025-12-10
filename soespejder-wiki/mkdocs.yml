@@ -77,6 +77,7 @@ nav:
           - Pyroteknik: kommunikation/noedsignaler/pyroteknik.md
           - Lyd & lys: kommunikation/noedsignaler/lyd-lys.md
           - Flag & visuelle: kommunikation/noedsignaler/flag-visuelle.md
+          - EPIRB: kommunikation/noedsignaler/epirb.md
   - Træning & øvelser: træning.md
   - Cheatsheets:
       - VHF: cheatsheets/vhf-cheatsheet.md

@@ -25,3 +25,6 @@ Sikkerhed: Tjek udløb, opbevar tørt, bortskaff via myndigheder/forhandler; øv
 
 Se også: [VHF – nødkald](vhf-noedkald.md), [Flag & visuelle signaler](flag-visuelle.md)
 
+## Nødblus & signalpistol
+- “Nødblus” dækker håndblus/parachute rocket; signalpistol affyrer lysstjerner – kræver tilladelse/er voksenansvar.  
+- Brug aldrig i leg; kun i nødsituationer og efter instruktion.
