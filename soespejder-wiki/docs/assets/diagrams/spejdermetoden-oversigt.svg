@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 200">
+  <title>Spejdermetoden – oversigt (placeholder)</title>
+  <rect x="10" y="10" width="400" height="40" fill="#f3e5f5" stroke="#6a1b9a"/>
+  <rect x="10" y="60" width="400" height="40" fill="#e3f2fd" stroke="#1565c0"/>
+  <rect x="10" y="110" width="400" height="40" fill="#e8f5e9" stroke="#2e7d32"/>
+  <text x="20" y="35" font-size="12">Patrulje • Learning by doing • Friluftsliv</text>
+  <text x="20" y="85" font-size="12">Medbestemmelse • Samfundsengagement</text>
+  <text x="20" y="135" font-size="12">Personlig udvikling • Lov & løfte</text>
+</svg>
