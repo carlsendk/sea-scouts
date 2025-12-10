@@ -6,73 +6,141 @@ tags: [ordbog, begreber]
 
 # Ordbog
 
-Klik‑ord fra siderne linker hertil for hurtig forklaring.
+Klik‑ord fra siderne linker hertil for hurtig forklaring. Hver term har sit eget anker (fx #patrulje).
 
 ## Spejdertermer
-- {#patrulje}Patrulje: Fast lille gruppe spejdere, der træner og løser opgaver sammen.  
-- {#patruljefoerer}Patruljefører: Spejder, der leder patruljen i samarbejde med leder.  
-- {#buddy}Buddy‑system: To og to som makkere, der holder øje med hinanden.
+
+#### Patrulje
+Fast lille gruppe spejdere, der træner og løser opgaver sammen.
+
+#### Patruljefører
+Spejder, der leder patruljen i samarbejde med leder.
+
+#### Buddy‑system
+To og to som makkere, der holder øje med hinanden.
 
 ## Maritime termer
-- {#mob}MOB: “Man Over Board” – mand over bord (nødssituation).  
-- {#vhf}VHF: Maritim radio til kald/nød, bruges på kanal 16 til kald.  
-- {#callsign}Call sign: Officielt kaldesignal for båden (licens).  
-- {#src}SRC: Short Range Certificate – certifikat til betjening af VHF.  
-- {#bidevind}Bidevind: Kurs tæt mod vinden (skarp vinkel).  
-- {#halvvind}Halvvind: Kurs med vinden fra siden.  
-- {#laens}Læns: Kurs med vinden bagfra (plat læns = helt bagfra).  
-- {#gennaker}Gennaker: Stort letvindssejl til halvvind/læns på J/70 m.fl.  
-- {#skode}Skøde: Tov der justerer sejlets vinkel (ind/ud).  
-- {#fald}Fald: Tov til at hejse sejl.  
-- {#cunningham}Cunningham: Line, der strammer sejlets forlig (form).  
-- {#udhal}Udhal: Line, der strammer sejlets underlig (fod).  
-- {#svaerd}Sværd/centerboard: Plade i jollen, der modvirker afdrift.  
-- {#ror}Ror: Plade bagest, der styrer båden.  
-- {#luv}Luv: Den side hvor vinden kommer fra.  
-- {#lae}Læ: Den side der er i læ for vinden (modsatte af luv).  
-- {#spryd}Spryd: Stang i Optimist, der spænder sejlet ud.
+
+#### MOB
+“Man Over Board” – mand over bord (nødssituation).
+
+#### VHF
+Maritim radio til kald/nød, bruges på kanal 16 til kald.
+
+#### Call sign
+Officielt kaldesignal for båden (licens).
+
+#### SRC
+Short Range Certificate – certifikat til betjening af VHF.
+
+#### Bidevind
+Kurs tæt mod vinden (skarp vinkel).
+
+#### Halvvind
+Kurs med vinden fra siden.
+
+#### Læns
+Kurs med vinden bagfra (plat læns = helt bagfra).
+
+#### Gennaker
+Stort letvindssejl til halvvind/læns på J/70 m.fl.
+
+#### Skøde
+Tov der justerer sejlets vinkel (ind/ud).
+
+#### Fald
+Tov til at hejse sejl.
+
+#### Cunningham
+Line, der strammer sejlets forlig (form).
+
+#### Udhal
+Line, der strammer sejlets underlig (fod).
+
+#### Sværd/centerboard
+Plade i jollen, der modvirker afdrift.
+
+#### Ror
+Plade bagest, der styrer båden.
+
+#### Luv
+Den side hvor vinden kommer fra.
+
+#### Læ
+Den side der er i læ for vinden (modsatte af luv).
+
+#### Spryd
+Stang i Optimist, der spænder sejlet ud.
 
 ## Afmærkning & fyr
-- {#kardinalmaerke}Kardinalmærke: Mærke der viser hvilken side (N/S/Ø/V) du skal passere en fare på.  
-- {#nordmaerke}Nordmærke: To sorte spidser opad; passer nord om mærket.  
-- {#sydmaerke}Sydmærke: To sorte spidser nedad; passer syd om mærket.  
-- {#oestmaerke}Østmærke: Spidser væk fra hinanden; passer øst om mærket.  
-- {#vestmaerke}Vestmærke: Spidser mod hinanden; passer vest om mærket.  
-- {#sektorfyr}Sektorfyr: Fyr med farvede sektorer (rød/grøn/hvid) som viser sikre retninger.  
-- {#fl}Fl (Flashing): Kort blink, længere mørke.  
-- {#oc}Oc (Occulting): Lysperioden længere end mørkeperioden.  
-- {#iso}Iso (Isophase): Lys og mørke lige lange.  
-- {#lfl}LFl (Long Flashing): Ét langt blink pr. periode.  
-- {#q}Q (Quick): Mange korte blink.  
-- {#vq}VQ (Very Quick): Meget hurtige blink.
+
+#### Kardinalmærke
+Mærke der viser hvilken side (N/S/Ø/V) du skal passere en fare på.
+
+#### Nordmærke / Sydmærke / Østmærke / Vestmærke
+Nord: to sorte spidser opad (passer nord om). Syd: to spidser nedad (passer syd om). Øst: spidser væk fra hinanden. Vest: spidser mod hinanden.
+
+#### Sektorfyr
+Fyr med farvede sektorer (rød/grøn/hvid) som viser sikre retninger.
+
+#### Fl / Oc / Iso / LFl / Q / VQ
+Flashing (kort blink), Occulting (lys > mørke), Isophase (lige lange), Long Flashing (langt blink), Quick/Very Quick (mange hurtige blink).
 
 ## Sejladsdynamik
-- {#afdrift}Afdrift: Sideværts drift forårsaget af vind/strøm.  
-- {#stroem}Strøm: Vand i bevægelse, der påvirker kurs og fart.  
-- {#boelger}Bølger: Vandets bevægelser; påvirker fart og timing i manøvrer.  
-- {#twist}Twist: Åbning i sejlets top for at afløfte kraft i vindstød.  
-- {#layline}Layline: Tænkt linje mod mærke, hvorfra du kan nå det uden ekstra vending/bomning.
 
-## Udstyr & påklædning
-- {#redningsvest}Redningsvest: CE‑godkendt vest, korrekt størrelse/opdrift.  
-- {#toerdragt}Tørdragt: Vandtæt dragt til koldt vand/vintersejlads.  
-- {#trapez}Trapez: Sele/line til at hænge udenfor båden i joller.
+#### Afdrift
+Sideværts drift forårsaget af vind/strøm.
+
+#### Strøm
+Vand i bevægelse, der påvirker kurs og fart.
+
+#### Bølger
+Vandets bevægelser; påvirker fart og timing i manøvrer.
+
+#### Twist
+Åbning i sejlets top for at afløfte kraft i vindstød.
+
+#### Layline
+Tænkt linje mod mærke, hvorfra du kan nå det uden ekstra vending/bomning.
 
 ## Navigation
-- {#soekort}Søkort: Kort over vandet med dybder, farer og afmærkninger.  
-- {#kompas}Kompas: Instrument der viser retning mod magnetisk nord.  
-- {#pejling}Pejling: Retning mod et punkt på land/sø; bruges til positionsbestemmelse.  
+
+#### Søkort
+Kort over vandet med dybder, farer og afmærkninger.
+
+#### Kompas
+Instrument der viser retning mod magnetisk nord.
+
+#### Pejling
+Retning mod et punkt på land/sø; bruges til positionsbestemmelse.
 
 ## Regler og lys
-- {#colreg}COLREG: Internationale søvejsregler for undgåelse af kollision.  
-- {#vigepligt}Vigepligt: Pligt til at holde klar af et andet fartøj.  
-- {#lanterner}Lanterner: Skibslys der viser retning/type af fartøj i mørke.  
+
+#### COLREG
+Internationale søvejsregler for undgåelse af kollision.
+
+#### Vigepligt
+Pligt til at holde klar af et andet fartøj.
+
+#### Lanterner
+Skibslys der viser retning/type af fartøj i mørke.
 
 ## Sundhed og sikkerhed
-- {#hypotermi}Hypotermi: Nedkøling af kroppen; kræver hurtig varme og tørre klæder.
 
-## Knob (kort)
-- {#paelestik}Pælestik: Fast løkke; bruges til at fastgøre line til pæl/øje.  
-- {#raabaandsknob}Råbåndsknob: Samler to liner af samme tykkelse.  
-- {#ottetalsknob}Ottetalsknob: Stopknob i enden af en line.  
-- {#halvstik}Halvstik (enkelt/dobbelt): Simpelt afslutningsknob eller fastgørelse om pæl.
+#### Hypotermi
+Nedkøling af kroppen; kræver hurtig varme og tørre klæder.
+
+## Knob
+
+#### Pælestik
+Fast løkke; bruges til at fastgøre line til pæl/øje.
+
+#### Råbåndsknob
+Samler to liner af samme tykkelse.
+
+#### Ottetalsknob
+Stopknob i enden af en line.
+
+#### Halvstik (enkelt/dobbelt)
+Simpelt afslutningsknob eller fastgørelse om pæl.
+
