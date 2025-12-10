@@ -1,0 +1,36 @@
+/* OpenBridge-inspired utilities (icons, colors, cards)
+   Note: Define or adjust colors to match your chosen subset. */
+:root {
+  --ob-primary: #1b5e20; /* adjust to OpenBridge primary */
+  --ob-accent: #00acc1;
+  --ob-danger: #d32f2f;
+  --ob-warning: #f9a825;
+}
+
+/* Icon utilities (for inline SVG or IMG) */
+.icon { display: inline-block; vertical-align: middle; }
+.icon-16 { width: 16px; height: 16px; }
+.icon-20 { width: 20px; height: 20px; }
+.icon-24 { width: 24px; height: 24px; }
+.icon-32 { width: 32px; height: 32px; }
+
+/* Color helpers */
+.text-primary { color: var(--ob-primary); }
+.text-accent { color: var(--ob-accent); }
+.text-danger { color: var(--ob-danger); }
+.text-warning { color: var(--ob-warning); }
+
+/* Simple card style that works with MkDocs Material content blocks */
+.ob-card {
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 8px;
+  padding: 1rem;
+  background: #fff;
+}
+.ob-card h3 { margin-top: 0.2rem; }
+
+/* Video wrapper (responsive)
+   Wrap iframe in <div class="video"> ... */
+.video { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; }
+.video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
