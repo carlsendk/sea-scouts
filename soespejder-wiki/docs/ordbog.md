@@ -216,6 +216,26 @@ Rigid Inflatable Boat – følgebåd med oppustelige pontoner og fast bund.
 #### Beaufortskala
 Skala der beskriver vindstyrke (0–12) med navne (fx “frisk vind”, “kuling”); se også [Vind & vindstyrker](sejlads/vind.md).
 
+## Kommunikation & signaler
+
+#### Morse
+Kommunikationssystem med prikker (·) og streger (–); se [Morse](kommunikation/morse.md).
+
+#### SOS
+Internationalt nødsignal i morse: ··· ––– ··· (lys/lyd/flag).
+
+#### Prosigns
+Forkortede morse‑“ord” som K (over), AR (slut), SK (skifter af), BK (pause).
+
+#### Lydsignaler
+Horn/fløjte‑signaler til manøvrer, møde og tåge; se [Lydsignaler](kommunikation/lydsignaler.md).
+
+#### Passagesignaler
+Signaler i snævre løb/møde for at aftale passage; se [Passagesignaler](kommunikation/passagesignaler.md).
+
+#### Signalflag
+Internationale flag med faste betydninger; se [Signalflag](kommunikation/signalflag.md).
+
 ## Sundhed og sikkerhed
 
 #### Hypotermi
