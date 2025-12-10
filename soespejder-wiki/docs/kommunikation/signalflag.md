@@ -37,3 +37,27 @@ Se også
 
 Ekstern reference
 - Sejlguide – signalflag (oversigt og læring): https://www.sejlguide.dk/8-signalflag/
+
+## Talstandere (0–9)
+Numeriske standere bruges til at sende tal i signaler.
+
+| Tal | Betydning |
+|---:|---|
+| 0–9 | Værdier 0 til 9 – kombineres for flercifrede tal |
+
+Eksempel: “O (Oscar) + 2 + 3” kan bruges som lokal kode for “MOB ved bøje 23” (aftal i patruljen; ikke officiel ICS‑sætning).
+
+## Erstatningsflag (substitutter)
+Bruges til at gentage et flag, når samme flag skal forekomme flere gange i samme signal (et flag må normalt ikke gentages i samme hal).
+
+- 1. erstatningsflag (First substitute): gentager øverste flag i signalgruppen  
+- 2. erstatningsflag (Second substitute): gentager andet flag i signalgruppen  
+- 3. erstatningsflag (Third substitute): gentager tredje flag i signalgruppen
+
+## Særlige flag (regatta/RRS)
+I kapsejlads bruges nogle særlige flag. Det vigtigste for spejdere at kende er:
+
+- AP (Answering Pennant): udsættelse/postponement (start udsat)  
+- Sort flag, U‑flag, I‑flag m.fl. – bruges af dommerbåd efter kapsejladsregler (RRS)
+
+Tip: Brug primært “A (dykker)”, “O (MOB)”, “V/W (assistance/læge)” i almindelig spejderkontekst; lær resten gradvist via lege og quizzer.

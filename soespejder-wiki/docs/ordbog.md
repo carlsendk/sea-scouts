@@ -242,6 +242,15 @@ Signaler i snævre løb/møde for at aftale passage; se [Passagesignaler](kommun
 #### Signalflag
 Internationale flag med faste betydninger; se [Signalflag](kommunikation/signalflag.md).
 
+#### Talstandere
+Numeriske standere (0–9) til at sende tal i signaler.
+
+#### Erstatningsflag / Substitutter
+Flag der gentager et tidligere flag i samme signal (1., 2. og 3. erstatningsflag).
+
+#### AP (Answering Pennant)
+Udsættelse/postponement i kapsejlads (RRS); bruges på dommerbåd/klubflagmast.
+
 ## Sundhed og sikkerhed
 
 #### Hypotermi
