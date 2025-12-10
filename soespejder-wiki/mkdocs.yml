@@ -77,6 +77,20 @@ nav:
       - regler-navigation/index.md
       - Søvejsregler & afmærkning: regler.md
       - Navigation: navigation.md
+      - Sømærker & afmærkning:
+          - regler-navigation/afmaerkning/index.md
+          - Grøn sideafmærkning: regler-navigation/afmaerkning/groen-side.md
+          - Rød sideafmærkning: regler-navigation/afmaerkning/roed-side.md
+          - Grøn skillepunkt: regler-navigation/afmaerkning/skillepunkt-groen.md
+          - Rød skillepunkt: regler-navigation/afmaerkning/skillepunkt-roed.md
+          - Isoleret fare: regler-navigation/afmaerkning/isoleret-fare.md
+          - Midtfarvand: regler-navigation/afmaerkning/midtfarvand.md
+          - Special: regler-navigation/afmaerkning/special.md
+          - Vrag: regler-navigation/afmaerkning/vrag.md
+          - Kardinal – Nord: regler-navigation/afmaerkning/kardinal-nord.md
+          - Kardinal – Syd: regler-navigation/afmaerkning/kardinal-syd.md
+          - Kardinal – Øst: regler-navigation/afmaerkning/kardinal-oest.md
+          - Kardinal – Vest: regler-navigation/afmaerkning/kardinal-vest.md
   - Kommunikation:
       - kommunikation/index.md
       - VHF & kommunikation: vhf.md
