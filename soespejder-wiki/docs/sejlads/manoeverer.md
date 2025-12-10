@@ -22,6 +22,11 @@ Typiske fejl: for hårdt ror (tab af fart), sent sideskift, sejl ikke trimmet p�
 
 Typiske fejl: ukontrolleret bomslag, for meget ror, båden vælter pga. vægt/trim.
 
+## Efter manøvren
+- Byg fart på [halvvind](../ordbog.md#halvvind) før du skærper.  
+- Trim i små skridt: [skøde](../ordbog.md#skode) ind, finjustér [cunningham](../ordbog.md#cunningham)/[udhal](../ordbog.md#udhal).  
+- Hold [roret](../ordbog.md#ror) i små bevægelser; åbn sejl på [læns](../ordbog.md#laens).
+
 ## Øvelser
 - 8‑tal bane: to bøjer – 3× vending, 3× bomning i serie.  
 - Stop‑og‑start: stop båden kontrolleret før mærke, sæt i gang.  

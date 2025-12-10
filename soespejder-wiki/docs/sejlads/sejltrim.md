@@ -32,4 +32,8 @@ Trim er små justeringer af sejl og mast, som giver fart og stabilitet.
 - Trim‑trap: sejl korte stræk og justér ét greb ad gangen; tal om fart/følelse.  
 - To‑bådsdrag: små kapstræk med aftalte trimscenarier.
 
+## Efter manøvre
+- Start åbent (fart), så luk gradvist ind til kursen.  
+- Tjek [cunningham](../ordbog.md#cunningham)/[udhal](../ordbog.md#udhal) – løs i let vind/[læns](../ordbog.md#laens), strammere i [bidevind](../ordbog.md#bidevind).
+
 Se også: [Fart & højde](fart-hoejde.md), [Balance & kropsposition](balance.md)
