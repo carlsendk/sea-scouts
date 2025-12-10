@@ -24,23 +24,6 @@ Her finder du alt fra spejderlov og spejdermetode til sejlads, sikkerhed og fril
 
 Wiki’en ligger som Markdown‑filer i dette repository og kan frit redigeres og udbygges. God tur på vandet!
 
-## Ordbog – hurtig adgang
+## Ordbog
 
-Sejlads (vind & manøvrer)
-- [Bidevind](ordbog.md#bidevind), [Halvvind](ordbog.md#halvvind), [Læns](ordbog.md#læns)  
-- [Vending / tack](ordbog.md#vending-tack), [Bomning / gybe](ordbog.md#bomning-gybe), [Halse](ordbog.md#halse)
-
-Sejl & trim
-- [Skøde](ordbog.md#skøde), [Fald](ordbog.md#fald), [Vang/Kicken](ordbog.md#vang--kicken)  
-- [Cunningham](ordbog.md#cunningham), [Udhal](ordbog.md#udhal), [Twist](ordbog.md#twist), [Forlig](ordbog.md#forlig), [Underlig](ordbog.md#underlig)
-
-Sikkerhed & nødsignaler
-- [MOB](ordbog.md#mob), [VHF](ordbog.md#vhf), [Kill‑cord](ordbog.md#kill-cord)  
-- [Hypotermi](ordbog.md#hypotermi), [Nødraket](ordbog.md#nødraket--faldskærmsraket), [Røgsignal](ordbog.md#røgsignal-orange)
-
-Navigation
-- [Søkort](ordbog.md#søkort), [Kompas](ordbog.md#kompas), [Pejling](ordbog.md#pejling)
-
-Både & havn
-- [Gennaker](ordbog.md#gennaker), [Sværd](ordbog.md#sværdcenterboard), [Ror](ordbog.md#ror), [Kølbåd](ordbog.md#kølbåd)  
-- [Fendere](ordbog.md#fendere--fender), [Fortøjning](ordbog.md#fortøjning)
+--8<-- "ordbog.md"
