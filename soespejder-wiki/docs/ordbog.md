@@ -195,6 +195,27 @@ Rødt = nød/nærkending; hvidt = advarsel/antikolission.
 #### Røgsignal (orange)
 Dagslys‑signal der markerer position – fx ved MOB.
 
+## Havn & fortøjning
+
+#### Fendere / Fender
+Stødpuder der beskytter skroget mod kaj/både; hænges i korrekt højde før anløb.
+
+#### Fortøjning
+At sikre båden til kaj/pæl med liner og knuder; brug fendere, spring og [pælestik](#pælestik).
+
+## Bådtype
+
+#### Kølbåd
+Båd med fast køl (vægt/stabilitet); flere roller ombord og større inerti i manøvrer.
+
+#### RIB
+Rigid Inflatable Boat – følgebåd med oppustelige pontoner og fast bund.
+
+## Vind & skalaer
+
+#### Beaufortskala
+Skala der beskriver vindstyrke (0–12) med navne (fx “frisk vind”, “kuling”); se også [Vind & vindstyrker](sejlads/vind.md).
+
 ## Sundhed og sikkerhed
 
 #### Hypotermi
