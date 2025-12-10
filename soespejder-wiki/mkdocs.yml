@@ -67,6 +67,11 @@ nav:
   - Kommunikation:
       - kommunikation/index.md
       - VHF & kommunikation: vhf.md
+      - Morse: kommunikation/morse.md
+      - Lydsignaler: kommunikation/lydsignaler.md
+      - Passagesignaler: kommunikation/passagesignaler.md
+      - Signalflag: kommunikation/signalflag.md
+      - Nødsignaler: sikkerhed/noedsignaler.md
   - Træning & øvelser: træning.md
   - Cheatsheets:
       - VHF: cheatsheets/vhf-cheatsheet.md
