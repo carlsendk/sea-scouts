@@ -21,6 +21,7 @@ nav:
   - Sikkerhed:
       - Oversigt: sikkerhed/index.md
       - Nødragt & beklædning: sikkerhed/noedragt-beklaedning.md
+      - Sikkerheds‑checklister: sikkerhed/checklister.md
       - Personligt udstyr: sikkerhed/personligt-udstyr.md
       - Vejrgrænser: sikkerhed/vejrgraenser.md
       - MOB: sikkerhed/mob.md
