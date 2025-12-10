@@ -8,7 +8,7 @@ Sikkerhed er fundamentet for al sejlads. Her er de vigtigste emner du skal kende
 - **Redningsvest:** alle skal bære en CE‑godkendt vest, der passer i størrelse og opdrift.  
 - **Påklædning:** tøj efter lag‑på‑lag‑princippet, vind- og vandtæt yderst. Husk hat, solbriller og solcreme.  
 - **Kniv og fløjte:** en lille kniv og fløjte i lommen til nødssituationer.  
-- **Mobil/VHF:** medbring mobil i vandtæt pose og lær at bruge VHF (se [VHF](vhf.md)).
+- **Mobil/VHF:** medbring mobil i vandtæt pose og lær at bruge [VHF](ordbog.md#vhf) (se siden [VHF](vhf.md)).
 
 ## Vejrgrænser
 
@@ -30,7 +30,7 @@ Tjek altid vejrudsigten før turen. Brug apps som DMI, YR eller Windy og kig på
 
 ## Mand over bord (MOB)
 
-Øv MOB jævnligt. Brug MOB-cheatsheetet til print: [MOB-checkliste (PDF)](assets/cheatsheets/mob-checkliste.pdf) og [MOB-cheatsheet (kort)](cheatsheets/mob-checkliste.md).
+Øv [MOB](ordbog.md#mob) jævnligt. Brug MOB-cheatsheetet til print: [MOB-checkliste (PDF)](assets/cheatsheets/mob-checkliste.pdf) og [MOB-cheatsheet (kort)](cheatsheets/mob-checkliste.md).
 
 **Roller per aldersspor**
 
@@ -51,7 +51,7 @@ Tjek altid vejrudsigten før turen. Brug apps som DMI, YR eller Windy og kig på
 
 ## Hypotermi og førstehjælp
 
-Koldt vand giver hurtigt nedkøling. Hav altid tæpper eller ekstra tøj med. Lær basal førstehjælp: hjerte–lungeredning, ABC (Airway, Breathing, Circulation) og behandling af småskader. Invester i et lille førstehjælpskit til hver båd.
+Koldt vand giver hurtigt [hypotermi](ordbog.md#hypotermi). Hav altid tæpper eller ekstra tøj med. Lær basal førstehjælp: hjerte–lungeredning, ABC (Airway, Breathing, Circulation) og behandling af småskader. Invester i et lille førstehjælpskit til hver båd.
 
 ## Nødsignaler
 

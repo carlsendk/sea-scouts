@@ -10,7 +10,7 @@ VHF-radioen er søspejderens livline til andre både og redningstjenesten. Her f
 
 ## Krav og certifikater
 
-- For at bruge en maritim VHF-radio i Danmark skal du have **SRC‑certifikat** (Short Range Certificate) og båden skal have et **call sign / Ship Station License**.  
+- For at bruge en maritim [VHF](ordbog.md#vhf)-radio i Danmark skal du have **[SRC](ordbog.md#src)‑certifikat** (Short Range Certificate) og båden skal have et **[call sign](ordbog.md#callsign) / Ship Station License**.  
 - Ifølge bekendtgørelse om prøver for fritidssejlere kan man aflægge prøven, når man er fyldt **15 år**.  
 - VHF‑kurser udbydes af sejlskoler; de dækker radioens funktioner, nødkald og regler.  
 

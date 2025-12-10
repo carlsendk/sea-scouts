@@ -8,10 +8,10 @@ Optimistjollen er den klassiske begynderguide. Her får du en kort guide til rig
 ## Rigging
 
 1. **Sæt masten:** masten sættes i mastefoden og sikres med snor.  
-2. **Sæt sprydet:** sprydet holdes i mastefoden med sprydelinen.  
-3. **Sæt sejl:** træk sejlet op ved at sætte faldet fast i toppen af sejl og hejse det.  
-4. **Sæt sværd og ror:** sværdet sættes i sværdkisten; roret monteres med rortappen og sikres med en line.  
-5. **Tjek skødet:** skødet går igennem bomskødeblokken og knyttes i hullet midt på bommen.
+2. **Sæt sprydet:** [sprydet](../ordbog.md#spryd) holdes i mastefoden med sprydelinen.  
+3. **Sæt sejl:** træk sejlet op ved at sætte [faldet](../ordbog.md#fald) fast i toppen af sejl og hejse det.  
+4. **Sæt sværd og ror:** [sværdet](../ordbog.md#svaerd) sættes i sværdkisten; [roret](../ordbog.md#ror) monteres med rortappen og sikres med en line.  
+5. **Tjek skødet:** [skødet](../ordbog.md#skode) går igennem bomskødeblokken og knyttes i hullet midt på bommen.
 
 Lav en tjekliste og øv rigging på land; det tager under 5 minutter med rutine.
 

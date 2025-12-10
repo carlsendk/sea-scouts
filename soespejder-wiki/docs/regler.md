@@ -1,13 +1,13 @@
 
 # Søvejsregler & afmærkning
 
-At kende de grundlæggende søvejsregler (COLREG) og afmærkninger på vandet er vigtigt for sikker sejlads. Her er en oversigt.
+At kende de grundlæggende søvejsregler ([COLREG](ordbog.md#colreg)) og afmærkninger på vandet er vigtigt for sikker sejlads. Her er en oversigt.
 
 ## Grundlæggende regler (COLREG)
 
 1. **Hold godt udkig:** brug øjne og ører; se 360° rundt og lyt efter andre fartøjer.  
 2. **Sikker fart:** sejl med en fart, der passer til sigtbarhed, trafik og bølger.  
-3. **Vigepligt:** sejl giver vigepligt til motordrevne både. Når to sejlskibe mødes:  
+3. **[Vigepligt](ordbog.md#vigepligt):** sejl giver vigepligt til motordrevne både. Når to sejlskibe mødes:  
    - Den, som får vinden fra bagbord (venstre) giver plads.  
    - Den, som ligger til læ (har vinden fra højre) holder kurs.  
    - Overhaling: overhal altid til le (læ side) og hold afstand.  
@@ -25,7 +25,7 @@ At kende de grundlæggende søvejsregler (COLREG) og afmærkninger på vandet er
 
 ## Lanterner
 
-Lanterner gør det muligt at se andre fartøjer i mørke og afgøre retning:
+[Lanterner](ordbog.md#lanterner) gør det muligt at se andre fartøjer i mørke og afgøre retning:
 
 - **Sejlbåde under motor:** rød (bagbord), grøn (styrbord) og hvid (agter).  
 - **Sejlbåde kun for sejl (under 7 m):** de samme, men kan nøjes med en trefarvet lanterne i mastetop.  
@@ -75,4 +75,4 @@ Lav memorykort eller små modeller for at øve jer i at genkende mærkerne.
 ### Natte- eller tågessejlads
 
 - **8–12 år:** Bliv tæt på instruktøren, brug pandelampe vendt nedad og kig efter røde/grønne lanterner for at se retning.
-- **12–16 år:** Tjek at egne lanterner virker, aftal mønstring hvis sigtbarheden falder, og hold ekstra udkig efter hvide sektorfyr. Brug kompas som backup.
+- **12–16 år:** Tjek at egne [lanterner](ordbog.md#lanterner) virker, aftal mønstring hvis sigtbarheden falder, og hold ekstra udkig efter hvide sektorfyr. Brug [kompas](ordbog.md#kompas) som backup.

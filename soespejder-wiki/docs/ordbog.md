@@ -32,3 +32,21 @@ Klik‑ord fra siderne linker hertil for hurtig forklaring.
 - {#lae}Læ: Den side der er i læ for vinden (modsatte af luv).  
 - {#spryd}Spryd: Stang i Optimist, der spænder sejlet ud.
 
+## Navigation
+- {#soekort}Søkort: Kort over vandet med dybder, farer og afmærkninger.  
+- {#kompas}Kompas: Instrument der viser retning mod magnetisk nord.  
+- {#pejling}Pejling: Retning mod et punkt på land/sø; bruges til positionsbestemmelse.  
+
+## Regler og lys
+- {#colreg}COLREG: Internationale søvejsregler for undgåelse af kollision.  
+- {#vigepligt}Vigepligt: Pligt til at holde klar af et andet fartøj.  
+- {#lanterner}Lanterner: Skibslys der viser retning/type af fartøj i mørke.  
+
+## Sundhed og sikkerhed
+- {#hypotermi}Hypotermi: Nedkøling af kroppen; kræver hurtig varme og tørre klæder.
+
+## Knob (kort)
+- {#paelestik}Pælestik: Fast løkke; bruges til at fastgøre line til pæl/øje.  
+- {#raabaandsknob}Råbåndsknob: Samler to liner af samme tykkelse.  
+- {#ottetalsknob}Ottetalsknob: Stopknob i enden af en line.  
+- {#halvstik}Halvstik (enkelt/dobbelt): Simpelt afslutningsknob eller fastgørelse om pæl.

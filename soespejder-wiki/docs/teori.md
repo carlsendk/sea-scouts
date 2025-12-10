@@ -6,7 +6,7 @@ Denne sektion giver en introduktion til de grundlæggende begreber i sejlads. De
 ## Vindforståelse
 
 - **Vindøjet:** retningen mod vinden. Du kan ikke sejl lige imod vinden.  
-- **Sejlpunkter:** halvvind (vinden fra siden), bidevind (skarp vinkel til vinden), læns (vinden bagfra) og plat læns (lige bagfra).  
+- **Sejlpunkter:** [halvvind](ordbog.md#halvvind) (vinden fra siden), [bidevind](ordbog.md#bidevind) (skarp vinkel til vinden), [læns](ordbog.md#laens) (vinden bagfra) og plat læns (lige bagfra).  
 - **Vinddrej og vindstød:** vinden skifter ofte retning og styrke; lær at justere sejl og kurs.  
 
 ![Sejlpunkter – oversigt](assets/diagrams/sejlpunkter.svg){data-glightbox}
@@ -18,16 +18,16 @@ Denne sektion giver en introduktion til de grundlæggende begreber i sejlads. De
 Sejlene fungerer som vinger: de skaber løft og modstand. Trim dine sejl for både fart og højde:
 
 - **Skødning:** strammes op i bidevind, løsnes i læns.  
-- **Fald og skøder:** styrer mastens og sejlets form.  
+- **Fald og skøder:** [fald](ordbog.md#fald) og [skøder](ordbog.md#skode) styrer mastens og sejlets form.  
 - **Twist:** det øverste af sejlet kan åbnes (twist) i hård vind for at mindske kraften.  
 
 ## Balance og kropsposition
 
-Båden skal holdes i balance. I jolle skal du hænge ud over siden (hængeplade eller trapez) for at modvirke krængning; i Optimist placerer du vægten frem/tilbage efter vind og bølger. Undgå at styre for meget med roret – roret bremser; brug vægt og sejltrim til at styre.
+Båden skal holdes i balance. I jolle skal du hænge ud over siden (hængeplade eller trapez) for at modvirke krængning; i Optimist placerer du vægten frem/tilbage efter vind og bølger. Undgå at styre for meget med [roret](ordbog.md#ror) – roret bremser; brug vægt og sejltrim til at styre.
 
 ## Rorbrug
 
-Hold roret roligt og små bevægelser. Tænk på roret som en “bremse”: jo mere du drejer, jo mere fart taber båden. Planlæg dine vendinger så du ikke skal svinge hårdt.
+Hold [roret](ordbog.md#ror) roligt og små bevægelser. Tænk på roret som en “bremse”: jo mere du drejer, jo mere fart taber båden. Planlæg dine vendinger så du ikke skal svinge hårdt.
 
 ## Strøm og bølger
 

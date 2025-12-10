@@ -6,8 +6,8 @@ Denne side dækker mindre joller til én eller to personer (Laser, Feva, 29er m.
 ## Standard rigging
 
 - Sæt masten op og sikr den; sæt salingshorn og vant.  
-- Hejs sejl: fæst fald i toppen og træk sejl op; stram Cunningham og udhal.  
-- Monter sværd/centerboard og ror; brug låsesplit.  
+- Hejs sejl: fæst [fald](../ordbog.md#fald) i toppen og træk sejl op; stram [Cunningham](../ordbog.md#cunningham) og [udhal](../ordbog.md#udhal).  
+- Monter [sværd/centerboard](../ordbog.md#svaerd) og [ror](../ordbog.md#ror); brug låsesplit.  
 - Tjek skøder og kontrol-liner.
 
 ## Basistrim og kropsarbejde
