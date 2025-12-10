@@ -16,3 +16,5 @@ Brug de rigtige signaler for at få hurtig hjælp. Kald altid først – suppler
 - [EPIRB – nødradiobøje](epirb.md)
 
 Se også: [Sikkerhed](../../sikkerhed/index.md), [VHF & kommunikation](../../vhf.md)
+
+Cheatsheet: [Nødsignaler – quickguide](../../cheatsheets/noedsignaler-quickguide.md)

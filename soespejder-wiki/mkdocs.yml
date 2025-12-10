@@ -85,6 +85,7 @@ nav:
       - Trim (Optimist): cheatsheets/trim-optimist.md
       - MOB-checkliste: cheatsheets/mob-checkliste.md
       - Morse: cheatsheets/morse-cheatsheet.md
+      - Nødsignaler: cheatsheets/noedsignaler-quickguide.md
 
 # Theme configuration
 theme:

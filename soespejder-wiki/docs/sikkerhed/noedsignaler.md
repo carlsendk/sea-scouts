@@ -9,6 +9,7 @@ tags: [sikkerhed, vhf]
 Brug korrekte meldinger og hold ro. Øv standardfraser på land.
 
 Se også den fulde sektion: [Kommunikation → Nødsignaler](../kommunikation/noedsignaler/index.md) for detaljer og eksempler.
+Cheatsheet: [Nødsignaler – quickguide](../cheatsheets/noedsignaler-quickguide.md)
 
 ## VHF
 - Nød (MAYDAY): livsfare.  
