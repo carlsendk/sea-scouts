@@ -14,7 +14,10 @@ tags: [knob]
 2. Før tampen over og under egen part (et halvstik).  
 3. Gentag for dobbelt halvstik.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Two Half Hitches: https://www.animatedknots.com/two-half-hitches-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=halvstik  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=two+half+hitches
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Two Half Hitches: https://www.animatedknots.com/two-half-hitches-knot

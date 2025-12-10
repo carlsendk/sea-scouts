@@ -14,7 +14,10 @@ tags: [knob, friktion]
 2. Lav 2–3 viklinger og før tampen gennem løkken.  
 3. Stram jævnt; test at den glider/låser korrekt.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Prusik: https://www.animatedknots.com/prusik-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=prusik+knob  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=prusik+knot
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Prusik: https://www.animatedknots.com/prusik-knot

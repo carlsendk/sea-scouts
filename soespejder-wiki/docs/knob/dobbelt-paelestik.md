@@ -16,7 +16,10 @@ tags: [knob, pælestik]
 ## Øv det
 - Sammenlign holdstyrke med enkelt pælestik ved ryk.
 
-Eksterne links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Bowline on a Bight / variations: https://www.animatedknots.com/bowline-on-a-bight-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=dobbelt+p%C3%A6lestik  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=bowline+variations
 
+Eksterne links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Bowline on a Bight / variations: https://www.animatedknots.com/bowline-on-a-bight-knot

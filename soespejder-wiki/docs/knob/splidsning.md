@@ -15,7 +15,10 @@ tags: [knob, tovværk]
 ## Tips
 - Brug fid og tape; hold styr på kordelerne; stram jævnt.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Splices: https://www.animatedknots.com/splices
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=splidsning  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=rope+splice
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Splices: https://www.animatedknots.com/splices

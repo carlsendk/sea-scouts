@@ -17,7 +17,10 @@ tags: [knob]
 ## Øv det
 - Bind hurtigt med én hånd; bind i enden af skøde.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Figure Eight: https://www.animatedknots.com/figure-8-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=ottetalsknob  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=figure+eight+knot
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Figure Eight: https://www.animatedknots.com/figure-8-knot

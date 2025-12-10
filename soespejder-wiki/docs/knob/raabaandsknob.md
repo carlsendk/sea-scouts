@@ -17,7 +17,10 @@ tags: [knob]
 ## Øv det
 - Test under belastning; lær forskel på råbånd og skovknob.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Reef Knot: https://www.animatedknots.com/reef-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=r%C3%A5b%C3%A5ndsknob  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=reef+knot
 
+Links
+- Sejlguide – råbåndsknob: https://www.sejlguide.dk/9-knob-og-stik/9.2-raabaandsknob.html  
+- Animated Knots – Reef Knot: https://www.animatedknots.com/reef-knot

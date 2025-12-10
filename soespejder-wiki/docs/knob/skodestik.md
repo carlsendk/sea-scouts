@@ -14,7 +14,10 @@ tags: [knob]
 2. Om egen part og tilbage under tampen.  
 3. Sikr med et ekstra halvstik ved belastning/ryk.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Sheet Bend / Bowline variants: https://www.animatedknots.com/sheet-bend-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=sk%C3%B8destik  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=sheet+bend
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Sheet Bend: https://www.animatedknots.com/sheet-bend-knot

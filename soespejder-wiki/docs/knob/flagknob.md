@@ -14,7 +14,10 @@ tags: [knob]
 2. Før tampen rundt og under egen part.  
 3. Stram og kontroller at enderne ligger korrekt modsat bugten.
 
-Links
-- Sejlguide – knob & stik: https://www.sejlguide.dk/9-knob-og-stik/  
-- Animated Knots – Clove/Two Half Hitches (alternativer): https://www.animatedknots.com/two-half-hitches-knot
+## Video
+- YouTube (dansk søgning): https://www.youtube.com/results?search_query=flagknob  
+- YouTube (engelsk søgning): https://www.youtube.com/results?search_query=flag+knot
 
+Links
+- Sejlguide – knob & stik (overblik): https://www.sejlguide.dk/9-knob-og-stik/  
+- Animated Knots – Clove/Two Half Hitches (alternativer): https://www.animatedknots.com/two-half-hitches-knot
