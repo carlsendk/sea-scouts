@@ -6,7 +6,7 @@ tags: [både, kølbåd]
 
 # Svendborgjolle (kølbåd)
 
-Robust træjolle med køl. God til træning i roller og basale manøvrer.
+Robust glasfiberjolle med køl. God til træning i roller og basale manøvrer.
 
 ## Grundrig
 - Mast/bom, [storsejl](../ordbog.md#storsejl) og [fok](../ordbog.md#fok).  
@@ -26,6 +26,6 @@ Robust træjolle med køl. God til træning i roller og basale manøvrer.
 - [ ] Vejr/vand vurderet; rute og roller aftalt
 
 ## Vedligehold
-- Skyl beslag, tjek træværk/rig og tør sejlene efter brug.
+- Skyl beslag, tjek gelcoat/skrog og rig; tør sejlene efter brug.
 
 Se også: [Kølbåde – overblik](keelboats/index.md), [Sikkerhed](../sikkerhed/index.md)
