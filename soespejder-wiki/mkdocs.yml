@@ -8,7 +8,8 @@ strict: true
 
 nav:
   - Hjem: index.md
-  - DDS & Spejderliv: dds/index.md
+  - DDS & Spejderliv:
+      - dds/index.md
       - Spejderliv: dds/spejderliv.md
       - Spejderloven (ordlyd): dds/spejderloven.md
       - Spejderloven – i praksis: dds/spejderloven-praksis.md
