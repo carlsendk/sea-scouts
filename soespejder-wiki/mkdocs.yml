@@ -42,9 +42,14 @@ nav:
       - Havnemanøvrer & fortøjning: sejlads/havnemanoevrer-fortoeljning.md
       - Bådtype:
           - boats/index.md
+          - Kølbåde: boats/keelboats/index.md
+          - Svendborgjolle: boats/svendborgjolle.md
+          - Aalborgjolle: boats/aalborgjolle.md
           - Optimist: boats/optimist.md
           - J/70: boats/j70.md
           - Joller: boats/jolle.md
+          - Følgebåde & motorbåde: boats/foelgebaade.md
+          - Båd‑checklister: boats/checklister.md
   - Knob & tovværk: knob.md
   - Regler & Navigation:
       - regler-navigation/index.md
