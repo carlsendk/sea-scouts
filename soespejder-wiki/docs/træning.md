@@ -57,4 +57,9 @@ Brug disse skemaer som “få styr på det”-lister. Print og tilpas for hver t
 - **8–12 år**: kan gentage standard opkald efter leder og kende kanal 16.
 - **12–16 år**: kan selvstændigt kalde op, skifte kanal, give position fra GPS og afslutte korrekt.
 
+### Knob & tovværk – forslag
+- Brug [Øvelser & lege – knob](knob/oevelser-lege.md) som 2×15‑min blokke.  
+- Kør stationstræning med pælestik, halvstik, råbånd og skødestik.  
+- Slut af med havnerolle‑spil (fortøjning på “pæl”).
+
 Se også de tilhørende cheatsheets i `docs/cheatsheets/` for printbare versioner.
