@@ -49,6 +49,8 @@ theme:
   name: material
   language: da
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
     - navigation.expand
