@@ -24,5 +24,4 @@ Klassisk træjolle. Stabil og rummelig til begyndertræning.
 ## Vedligehold
 - Skyl beslag, tør sejl, kontroller tovværk.
 
-Se også: [Kølbåde – overblik](boats/keelboats/index.md), [Havnemanøvrer](../sejlads/havnemanoevrer-fortoeljning.md)
-
+Se også: [Kølbåde – overblik](keelboats/index.md), [Havnemanøvrer](../sejlads/havnemanoevrer-fortoeljning.md)

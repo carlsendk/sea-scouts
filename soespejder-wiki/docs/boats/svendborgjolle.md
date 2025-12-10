@@ -28,5 +28,4 @@ Robust træjolle med køl. God til træning i roller og basale manøvrer.
 ## Vedligehold
 - Skyl beslag, tjek træværk/rig og tør sejlene efter brug.
 
-Se også: [Kølbåde – overblik](boats/keelboats/index.md), [Sikkerhed](../sikkerhed/index.md)
-
+Se også: [Kølbåde – overblik](keelboats/index.md), [Sikkerhed](../sikkerhed/index.md)
