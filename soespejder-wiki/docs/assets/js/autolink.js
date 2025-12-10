@@ -16,8 +16,8 @@
   }
   function autolink(glossary){
     const base = findSiteBase();
-    const linked = new Set();
-    const terms = Object.keys(glossary);
+    // Link longer terms first to avoid partial matches overshadowing
+    const terms = Object.keys(glossary).sort((a,b)=>b.length-a.length);
     if(!terms.length) return;
     const walker = document.createTreeWalker(document.querySelector('.md-content'), NodeFilter.SHOW_TEXT, null);
     let node;
@@ -25,24 +25,29 @@
       if(!node.nodeValue || isExcluded(node)) continue;
       let text = node.nodeValue;
       for(const term of terms){
-        if(linked.has(term)) continue;
         const entry = glossary[term];
-        const re = new RegExp('(^|\\b)(' + escapeRegExp(term) + ')(\\b|$)','i');
-        const match = text.match(re);
-        if(match){
-          const before = text.slice(0, match.index + match[1].length);
-          const found = match[2];
-          const after = text.slice((match.index + match[0].length));
+        // global, case-insensitive, word-boundary-ish
+        const re = new RegExp('(^|\\b)(' + escapeRegExp(term) + ')(\\b|$)','ig');
+        let lastIndex = 0;
+        let parts = [];
+        let m;
+        while((m = re.exec(text))){
+          // push text before match
+          parts.push(document.createTextNode(text.slice(lastIndex, m.index + m[1].length)));
           const a = document.createElement('a');
           a.href = base + entry.href.replace(/^\//,'');
-          a.textContent = found;
+          a.textContent = m[2];
+          parts.push(a);
+          lastIndex = m.index + m[0].length;
+        }
+        if(parts.length){
+          // push remaining text and replace node
+          parts.push(document.createTextNode(text.slice(lastIndex)));
           const parent = node.parentNode;
-          if(before) parent.insertBefore(document.createTextNode(before), node);
-          parent.insertBefore(a, node);
-          if(after) parent.insertBefore(document.createTextNode(after), node);
+          for(const p of parts){ parent.insertBefore(p, node); }
           parent.removeChild(node);
-          linked.add(term);
-          break; // move to next text node after inserting one link
+          // set node to last inserted text node so walker continues correctly
+          break;
         }
       }
     }
@@ -57,4 +62,3 @@
     document.addEventListener('DOMContentLoaded', init);
   } else { init(); }
 })();
-
