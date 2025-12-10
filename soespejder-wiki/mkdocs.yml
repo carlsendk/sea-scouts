@@ -18,7 +18,13 @@ nav:
       - Aldersspor: alder.md
       - Mærker: badges.md
       - Aktiviteter (DDS): aktiviteter.md
-  - Sikkerhed: sikkerhed.md
+  - Sikkerhed:
+      - sikkerhed.md
+      - Personligt udstyr: sikkerhed/personligt-udstyr.md
+      - Vejrgrænser: sikkerhed/vejrgraenser.md
+      - MOB: sikkerhed/mob.md
+      - Hypotermi & førstehjælp: sikkerhed/hypotermi-foerstehjaelp.md
+      - Nødsignaler: sikkerhed/noedsignaler.md
   - Sejlads:
       - sejlads/index.md
       - Grundlæggende sejlads: teori.md

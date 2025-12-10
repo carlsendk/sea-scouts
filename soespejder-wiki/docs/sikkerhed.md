@@ -8,7 +8,9 @@ Sikkerhed er fundamentet for al sejlads. Her er de vigtigste emner du skal kende
 - **Redningsvest:** alle skal bære en CE‑godkendt vest, der passer i størrelse og opdrift.  
 - **Påklædning:** tøj efter lag‑på‑lag‑princippet, vind- og vandtæt yderst. Husk hat, solbriller og solcreme.  
 - **Kniv og fløjte:** en lille kniv og fløjte i lommen til nødssituationer.  
-- **Mobil/VHF:** medbring mobil i vandtæt pose og lær at bruge [VHF](ordbog.md#vhf) (se siden [VHF](vhf.md)).
+ - **Mobil/VHF:** medbring mobil i vandtæt pose og lær at bruge [VHF](ordbog.md#vhf) (se siden [VHF](vhf.md)).
+
+Læs mere: [Personligt udstyr – detaljer](sikkerhed/personligt-udstyr.md)
 
 ## Vejrgrænser
 
@@ -27,6 +29,8 @@ Tjek altid vejrudsigten før turen. Brug apps som DMI, YR eller Windy og kig på
 - Temperatur: under 10 °C vand/luft = kortere pas og flere lag.
 - Redningsvest: obligatorisk for alle; tørdragter anbefales under 10 °C vand.
 - Aftal “kom hjem”-signal (VHF/telefon) før afgang.
+
+Læs mere: [Vejrgrænser – detaljer](sikkerhed/vejrgraenser.md)
 
 ## Mand over bord (MOB)
 
@@ -49,9 +53,13 @@ Tjek altid vejrudsigten før turen. Brug apps som DMI, YR eller Windy og kig på
 4. Stop bådens fart (frigear i motorbåd, sejl blafrende i jolle) og saml personen op via stævnen eller læ side.
 5. Tjek for nedkøling og skader; skift til tørt tøj/tæppe og meld tilbage til leder.
 
+Læs mere: [MOB – detaljer](sikkerhed/mob.md)
+
 ## Hypotermi og førstehjælp
 
 Koldt vand giver hurtigt [hypotermi](ordbog.md#hypotermi). Hav altid tæpper eller ekstra tøj med. Lær basal førstehjælp: hjerte–lungeredning, ABC (Airway, Breathing, Circulation) og behandling af småskader. Invester i et lille førstehjælpskit til hver båd.
+
+Læs mere: [Hypotermi & førstehjælp – detaljer](sikkerhed/hypotermi-foerstehjaelp.md)
 
 ## Nødsignaler
 
@@ -59,4 +67,6 @@ Koldt vand giver hurtigt [hypotermi](ordbog.md#hypotermi). Hav altid tæpper ell
 - **Nødraketter:** kun til fjernsejlads.  
 - **Lyd og lys:** fløjte, horn eller lommelygte kan tiltrække opmærksomhed.  
 
-Ved alvorlige hændelser: hold ro, tilkald hjælp og følg lederens instrukser.
+ Ved alvorlige hændelser: hold ro, tilkald hjælp og følg lederens instrukser.
+
+Læs mere: [Nødsignaler – detaljer](sikkerhed/noedsignaler.md)
