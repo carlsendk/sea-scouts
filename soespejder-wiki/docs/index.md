@@ -16,7 +16,7 @@ Her finder du alt fra spejderlov og spejdermetode til sejlads, sikkerhed og fril
 - [Søvejsregler & afmærkning](regler.md)
 - [Navigation](navigation.md)
 - [VHF & kommunikation](vhf.md)
-- [Friluftsliv](friluftsliv.md)
+- [Friluftsliv](friluftsliv/index.md)
 - [Træning & øvelser](træning.md)
 - [Aldersspor](alder.md)
 - [Mærker](badges.md)
