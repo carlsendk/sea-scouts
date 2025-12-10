@@ -1,3 +1,8 @@
+---
+title: VHF & kommunikation
+description: Grundregler, kanaler, opkaldsprocedure og nødopkald for VHF.
+tags: [vhf, sikkerhed, kommunikation]
+---
 
 # VHF & kommunikation
 
@@ -5,16 +10,16 @@ VHF-radioen er søspejderens livline til andre både og redningstjenesten. Her f
 
 ## Krav og certifikater
 
-- For at bruge en maritim VHF-radio i Danmark skal du have **SRC‑certifikat** (Short Range Certificate) og båden skal have et **call sign / Ship Station License**【513262266479939†L393-L408】.  
-- Ifølge bekendtgørelse om prøver for fritidssejlere kan man aflægge prøven, når man er fyldt **15 år**【636831630351677†L308-L311】.  
+- For at bruge en maritim VHF-radio i Danmark skal du have **SRC‑certifikat** (Short Range Certificate) og båden skal have et **call sign / Ship Station License**.  
+- Ifølge bekendtgørelse om prøver for fritidssejlere kan man aflægge prøven, når man er fyldt **15 år**.  
 - VHF‑kurser udbydes af sejlskoler; de dækker radioens funktioner, nødkald og regler.  
 
 Spejdere under 15 år må kun tale i radio under ansvar af en leder. Lær at lytte og følge instrukser fra skipper eller leder.
 
 ## Vigtige kanaler
 
-- **Kanal 16 (156.8 MHz):** international nød‑, sikkerheds‑ og kaldkanal. Alle fartøjer bør lytte på kanal 16 under sejlads【570055972741047†L270-L279】.  
-- **Arbejds‑/interskibskanaler:** når du har kaldt et andet fartøj på 16, skifter I til en arbejds­kanal (fx 68, 69, 71 eller 72)【570055972741047†L280-L283】.  
+- **Kanal 16 (156.8 MHz):** international nød‑, sikkerheds‑ og kaldkanal. Alle fartøjer bør lytte på kanal 16 under sejlads.  
+- **Arbejds‑/interskibskanaler:** når du har kaldt et andet fartøj på 16, skifter I til en arbejds­kanal (fx 68, 69, 71 eller 72).  
 - **Lokal praksis:** spejdergruppen kan aftale faste kanaler (f.eks. 72 eller 77) til kommunikation mellem patruljebåde. Skriv kanalerne på en lamineret seddel i hver båd.  
 
 ## Opkaldsprocedure
@@ -43,4 +48,4 @@ For mindre farlige men stadig alvorlige situationer kan du bruge **PAN‑PAN** (
 
 ## VHF vs mobiltelefon
 
-En mobiltelefon i vandtæt pose er et godt supplement, men en VHF-radio har fordele: nødknap, mulighed for at sende til alle både i området og bedre rækkevidde i områder uden mobilsignal【513262266479939†L414-L430】.
+En mobiltelefon i vandtæt pose er et godt supplement, men en VHF-radio har fordele: nødknap, mulighed for at sende til alle både i området og bedre rækkevidde i områder uden mobilsignal.
