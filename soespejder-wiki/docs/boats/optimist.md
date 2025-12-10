@@ -3,6 +3,8 @@
 
 Optimistjollen er den klassiske begynderguide. Her får du en kort guide til rigging, trim og sejlads.
 
+![Rigging oversigt](../assets/diagrams/optimist-rigging.svg)
+
 ## Rigging
 
 1. **Sæt masten:** masten sættes i mastefoden og sikres med snor.  
@@ -37,3 +39,6 @@ Trim afhænger af vindstyrken:
 ## Vedligehold
 
 Skyl jollen med ferskvand efter sejlads, især sejl og beslag. Tjek for revner, slitage på tovværk og stram skruer. Opbevar jollen tørt om vinteren og dæk den til.
+### Aldersspor
+- 8–12 år: lær rigging med billedtrin; 1–2 manøvrer pr. pas.  
+- 12–16 år: selvstændig rigging og fejlretning; fokus på fart vs. højde.

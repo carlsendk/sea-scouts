@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <title>Sejlpunkter (placeholder)</title>
+  <circle cx="150" cy="150" r="100" fill="none" stroke="#333"/>
+  <line x1="150" y1="150" x2="150" y2="40" stroke="#d32f2f"/>
+  <line x1="150" y1="150" x2="250" y2="150" stroke="#1976d2"/>
+  <line x1="150" y1="150" x2="50" y2="150" stroke="#1976d2"/>
+  <line x1="150" y1="150" x2="150" y2="260" stroke="#388e3c"/>
+  <text x="140" y="30" font-size="12">Vind</text>
+  <text x="255" y="155" font-size="12">Halvvind</text>
+  <text x="10" y="155" font-size="12">Halvvind</text>
+  <text x="140" y="280" font-size="12">Læns</text>
+</svg>

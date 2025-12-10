@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <title>J/70 roller (placeholder)</title>
+  <rect x="40" y="90" width="320" height="40" fill="#e8f5e9" stroke="#063"/>
+  <circle cx="80" cy="110" r="10" fill="#063"/>
+  <circle cx="160" cy="110" r="10" fill="#063"/>
+  <circle cx="240" cy="110" r="10" fill="#063"/>
+  <circle cx="320" cy="110" r="10" fill="#063"/>
+  <text x="60" y="140" font-size="12">Ror</text>
+  <text x="140" y="140" font-size="12">Storsejl</text>
+  <text x="220" y="140" font-size="12">Fok</text>
+  <text x="300" y="140" font-size="12">Bow</text>
+</svg>
