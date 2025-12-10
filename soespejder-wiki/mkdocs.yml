@@ -1,9 +1,10 @@
 site_name: Søspejder Wiki
 site_description: Statisk wiki for søspejdere (Optimist, J/70, joller)
-site_url: https://<owner>.github.io/sea-scouts
-repo_url: https://github.com/sea-scouts/sea-scouts
-repo_name: sea-scouts/sea-scouts
+site_url: https://carlsendk.github.io/sea-scouts
+repo_url: https://github.com/carlsendk/sea-scouts
+repo_name: carlsendk/sea-scouts
 edit_uri: edit/main/soespejder-wiki/docs/
+strict: true
 
 nav:
   - Hjem: index.md
@@ -36,14 +37,19 @@ theme:
   language: da
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - navigation.instant
+    - navigation.footer
     - toc.integrate
     - search.highlight
     - search.suggest
+    - search.share
     - content.code.copy
     - content.tabs.link
+    - content.action.edit
+    - content.action.view
   palette:
     - scheme: default
       primary: blue
@@ -71,11 +77,16 @@ extra:
       name: GitHub
 
 plugins:
-  - search
+  - search:
+      lang: da
+  - tags
   - glightbox
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
+  - minify:
+      minify_html: true
+  - sitemap
 
 markdown_extensions:
   - admonition
