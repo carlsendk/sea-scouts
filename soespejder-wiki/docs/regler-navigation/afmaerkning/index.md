@@ -14,5 +14,4 @@ IALA A bruges i Danmark. Husk hovedreglen for indgående (ind i havn/farvand): r
 - Øvrige: [Isoleret fare](isoleret-fare.md) • [Midtfarvand](midtfarvand.md) • [Special](special.md) • [Vrag](vrag.md)  
 - Kardinalmærker: [Nord](kardinal-nord.md) • [Syd](kardinal-syd.md) • [Øst](kardinal-oest.md) • [Vest](kardinal-vest.md)
 
-Se også: [Søvejsregler & afmærkning](../regler.md)
-
+Se også: [Søvejsregler & afmærkning](../../regler.md)

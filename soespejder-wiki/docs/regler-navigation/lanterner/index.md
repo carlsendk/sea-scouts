@@ -16,5 +16,4 @@ Her finder du korte beskrivelser af lanterneføring og dagfigurer for almindelig
 - [Hæmmet af dybgang](draught.md) • [Grundstøder](aground.md) • [Slæbebåd/tog](towing.md)  
 - [Skib med dykker i vandet](dykker.md) • [Luftpudefartøj](hovercraft.md) • [WIG‑fartøj](wig.md)
 
-Se også: [Søvejsregler & afmærkning](../regler.md)
-
+Se også: [Søvejsregler & afmærkning](../../regler.md)
