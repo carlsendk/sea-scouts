@@ -3,6 +3,24 @@
 
 Sikkerhed er fundamentet for al sejlads. Her er de vigtigste emner du skal kende:
 
+## Hvad finder du her?
+- [Personligt udstyr – detaljer](personligt-udstyr.md)  
+- [Nødragt & beklædning](noedragt-beklaedning.md)  
+- [Vejrgrænser – detaljer](vejrgraenser.md)  
+- [MOB – mand over bord](mob.md)  
+- [Hypotermi & førstehjælp](hypotermi-foerstehjaelp.md)  
+- [Førstehjælp ombord](foerstehjaelp-ombord.md)  
+- [Nødsignaler – VHF/pyroteknik](noedsignaler.md)  
+- [Følgebåd – SOP](foelgebaad-sop.md)
+
+### Til ledere
+- Planlæg korte, sikre blokke (mål, område, vejr, roller).  
+- Sørg for følgebåd, radio‑tjek og “kom‑hjem” signal.
+
+### Til spejdere
+- Buddy‑tjek vest/varme og følg lederens meldinger.  
+- Råb og peg ved “MOB!”, hold ro og hjælp.
+
 ## Personligt udstyr
 
 - **Redningsvest:** alle skal bære en CE‑godkendt vest, der passer i størrelse og opdrift.  
