@@ -18,6 +18,14 @@ nav:
       - Aldersspor: alder.md
       - Mærker: badges.md
       - Aktiviteter (DDS): aktiviteter.md
+      - Friluftsliv:
+          - friluftsliv/index.md
+          - Knivhåndtering: friluftsliv/kniv.md
+          - Økse – sikker brug: friluftsliv/oekse.md
+          - Sav – sikker brug: friluftsliv/sav.md
+          - Bål: friluftsliv/baal.md
+          - Pionering & projekter: friluftsliv/pionering.md
+          - Lejrliv & ture: friluftsliv/lejrliv.md
   - Sikkerhed:
       - Oversigt: sikkerhed/index.md
       - Nødragt & beklædning: sikkerhed/noedragt-beklaedning.md
@@ -60,7 +68,6 @@ nav:
       - kommunikation/index.md
       - VHF & kommunikation: vhf.md
   - Ordbog: ordbog.md
-  - Friluftsliv: friluftsliv.md
   - Træning & øvelser: træning.md
   - Cheatsheets:
       - VHF: cheatsheets/vhf-cheatsheet.md
