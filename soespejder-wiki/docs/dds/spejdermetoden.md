@@ -9,7 +9,7 @@ tags: [dds, spejdermetoden, spejderliv]
 Brug denne side som ramme for planlægning og debrief. Hvert element er koblet til konkrete aktiviteter på vandet.
 
 ## Patruljesystem
-- Sejl i faste patruljer med klare roller.  
+- Sejl i faste [patruljer](../ordbog.md#patrulje) med klare roller.  
 - Roter roller fra tur til tur for læring.
 
 ## Learning by doing
@@ -35,9 +35,17 @@ Brug denne side som ramme for planlægning og debrief. Hvert element er koblet t
 ## Værdier (Spejderloven)
 - Knyt adfærd på vandet til lovens punkter (se [Spejderloven](spejderloven.md)).
 
-![Spejdermetoden oversigt](../assets/diagrams/spejdermetoden-oversigt.svg)
+![Spejdermetoden oversigt](../assets/diagrams/spejdermetoden-oversigt.svg){data-glightbox}
 
 ### Aldersspor
-- 8–12 år: tydelige roller, simple mål, korte debriefs.  
-- 12–16 år: selvledelse, planlægning, refleksionsspørgsmål pr. element.
 
+=== "8–12 år"
+
+- Tydelige roller, simple mål, korte debriefs.
+
+=== "12–16 år"
+
+- Selvledelse, planlægning, refleksionsspørgsmål pr. element.
+
+### Se også
+- [Briefing & debrief](briefing-debrief.md)

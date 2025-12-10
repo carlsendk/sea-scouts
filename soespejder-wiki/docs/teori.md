@@ -9,7 +9,7 @@ Denne sektion giver en introduktion til de grundlæggende begreber i sejlads. De
 - **Sejlpunkter:** halvvind (vinden fra siden), bidevind (skarp vinkel til vinden), læns (vinden bagfra) og plat læns (lige bagfra).  
 - **Vinddrej og vindstød:** vinden skifter ofte retning og styrke; lær at justere sejl og kurs.  
 
-![Sejlpunkter – oversigt](assets/diagrams/sejlpunkter.svg)
+![Sejlpunkter – oversigt](assets/diagrams/sejlpunkter.svg){data-glightbox}
 
 Øvelse: tegn et kompas og marker de forskellige sejlpunkter; find vinden på en dag og sejl forskellige kurser.
 

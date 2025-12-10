@@ -3,7 +3,7 @@
 
 Optimistjollen er den klassiske begynderguide. Her får du en kort guide til rigging, trim og sejlads.
 
-![Rigging oversigt](../assets/diagrams/optimist-rigging.svg)
+![Rigging oversigt](../assets/diagrams/optimist-rigging.svg){data-glightbox}
 
 ## Rigging
 

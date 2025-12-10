@@ -24,8 +24,8 @@ To og to følges ad som makkere – på land og på vand. Man holder øje med hi
 - Pegning + råb “MOB!” ved mand over bord.
 
 ## Kald ombord (kort og klart)
-- “Klar til vending?” – “Klar!” – “Vender!”  
-- “Klar til bomning?” – “Klar!” – “Bommer!”
+- “Klar til [vending](../ordbog.md#bidevind)?” – “Klar!” – “Vender!”  
+- “Klar til [bomning](../ordbog.md#laens)?” – “Klar!” – “Bommer!”
 
 ![Håndsignaler](../assets/diagrams/haandsignaler.svg){data-glightbox}
 
