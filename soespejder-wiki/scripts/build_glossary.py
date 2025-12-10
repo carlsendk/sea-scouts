@@ -69,6 +69,20 @@ def main():
                 # accept acronyms or length >=3
                 if len(t) >= 3 or t.isupper():
                     add_key(mapping, t.lower(), rel_url)
+            # also map headings (##/###) as terms -> anchors
+            with open(md, 'r', encoding='utf-8') as fh:
+                for line in fh:
+                    if line.startswith('## ') or line.startswith('### '):
+                        term = line.lstrip('#').strip()
+                        if not term: continue
+                        anchor = slugify(term)
+                        add_key(mapping, term, f"{rel_url}#{anchor}")
+                        # tokens from heading
+                        for ht in re.split(r'[^\wæøåÆØÅ]+', term):
+                            ht = ht.strip()
+                            if not ht: continue
+                            if len(ht) >= 3 or ht.isupper():
+                                add_key(mapping, ht.lower(), f"{rel_url}#{anchor}")
     # 2) ordbog anchors
     ordbog = os.path.join(DOCS, 'ordbog.md')
     if os.path.exists(ordbog):
@@ -87,4 +101,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

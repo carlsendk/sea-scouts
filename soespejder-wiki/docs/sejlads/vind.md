@@ -8,13 +8,21 @@ tags: [sejlads, vind, trim]
 
 Brug tabellen til at vælge øvelser, trim og sikkerhedsniveau efter vinden.
 
-| Vind (m/s) | Beaufort | Fornemmelse | Trim (kort) | Øvelsesfokus | Sikkerhed |
-|---:|:---:|---|---|---|---|
-| 0–2 | 0–1 | Spejlblank/små krusninger | Løs [fald](../ordbog.md#fald)/[udhal](../ordbog.md#udhal), blød [skøde](../ordbog.md#skode) | Basale [manøvrer](manoeverer.md), balance, start/stop | Tæt på følgebåd; korte pas |
-| 3–5 | 2–3 | Små bølger, stabil vind | Neutral til let stram trim; hold båden flad | Fart vs [højde](fart-hoejde.md), [sejltrim](sejltrim.md) | Normal opsyn |
-| 6–8 | 4–5 | Hvide skumtoppe ses | Fladere sejl: mere [cunningham](../ordbog.md#cunningham)/[udhal](../ordbog.md#udhal), åben top ([vang](../ordbog.md#vang--kicken)) | Kontrolleret [bomning](manoeverer.md), [fartkontrol](fartkontrol.md), [bølger](boelger-timing.md) | Skær af område; fokus på varme |
-| 9–11 | 5–6 | Flere skumtoppe, pust | Fladt sejl, tydelig twist; små ror‑bevægelser | Manøvrer i læ; havne‑ og [fortøjning](havnemanoevrer-fortoeljning.md) | Kun øvede; tæt følgebåd |
-| 12+ | 6+ | Kraftig vind | Kun for øvede/ledere | Land‑moduler (knob, VHF, navigation) | Overvej aflysning |
+| Vind (m/s) | Beaufort | Dansk navn | Fornemmelse | Trim (kort) | Øvelsesfokus | Sikkerhed |
+|---:|:---:|---|---|---|---|---|
+| 0.0–0.2 | 0 | Stille | Spejlblank | – | Land‑moduler, rigging | – |
+| 0.3–1.5 | 1 | Næsten stille (flau) | Rifler i vandet | Meget løs [skøde](../ordbog.md#skode)/[udhal](../ordbog.md#udhal) | Balance, start/stop | Tæt følgebåd |
+| 1.6–3.3 | 2 | Svag vind | Små krusninger | Let trim, vægt fremme | Basale [manøvrer](manoeverer.md) | Normal opsyn |
+| 3.4–5.4 | 3 | Let vind | Små bølger | Neutral trim | [Sejltrim](sejltrim.md), [fart](fart-hoejde.md) | Normal opsyn |
+| 5.5–7.9 | 4 | Jævn vind | Skumtoppe begynder | Mere [cunningham](../ordbog.md#cunningham)/[udhal](../ordbog.md#udhal) | [Bomning](manoeverer.md), [fartkontrol](fartkontrol.md) | Skær af område |
+| 8.0–10.7 | 5 | Frisk vind | Tydelige skumtoppe | Fladere sejl, åben top ([vang](../ordbog.md#vang--kicken)) | [Bølger & timing](boelger-timing.md) | Varmepauser |
+| 10.8–13.8 | 6 | Hård vind | Hyppige pust | Fladt sejl, små ror | Læ‑bane, havnemanøvrer | Kun øvede |
+| 13.9–17.1 | 7 | Stiv kuling | Sprøjt og sø | Minimum sejl, sikkerhed først | Land/teori eller læ‑træning | Leder beslutning |
+| 17.2–20.7 | 8 | Hård kuling | Kraftige pust | – | Land‑moduler | Ofte aflysning |
+| 20.8–24.4 | 9 | Stormende kuling | Meget hård vind | – | Land‑moduler | Aflys |
+| 24.5–28.4 | 10 | Storm | – | – | Land‑moduler | Aflys |
+| 28.5–32.6 | 11 | Stærk storm | – | – | Land‑moduler | Aflys |
+| ≥32.7 | 12 | Orkan | – | – | Land‑moduler | Aflys |
 
 ## Aldersspor
 
@@ -32,3 +40,34 @@ Brug tabellen til at vælge øvelser, trim og sikkerhedsniveau efter vinden.
 
 Se også: [Sejltrim](sejltrim.md), [Fart & højde](fart-hoejde.md), [Vejrgrænser](../sikkerhed/vejrgraenser.md), [Sikkerhed](../sikkerhed/index.md)
 
+## Navne og beskrivelser
+
+### Stille
+Spejlblankt vand; fokus på rigging, balance, start/stop på kort bane.
+
+### Næsten stille (flau)
+Små rifler i vandoverfladen; meget blød skødning og løs udhal.
+
+### Svag vind
+Små krusninger; gode forhold til basale manøvrer og balance.
+
+### Let vind
+Små bølger; begynd at arbejde med fart vs højde.
+
+### Jævn vind
+Stabile forhold; finjustér cunningham/udhal og vægt for fart/komfort.
+
+### Frisk vind
+Tydelige skumtoppe; hold båden flad, åbn top i pust.
+
+### Hård vind
+Hyppige pust; små ror‑bevægelser, læ‑bane og sikkerhed i fokus.
+
+### Stiv kuling
+Sprøjt og sø; øv kun i læ/land‑moduler efter ledervurdering.
+
+### Hård kuling
+Meget krævende; anbefalet land‑moduler.
+
+### Stormende kuling / Storm / Stærk storm / Orkan
+Ingen sejlads for spejdere; brug tiden på teori, VHF, knob og planlægning.
