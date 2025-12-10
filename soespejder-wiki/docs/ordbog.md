@@ -32,6 +32,32 @@ Klik‑ord fra siderne linker hertil for hurtig forklaring.
 - {#lae}Læ: Den side der er i læ for vinden (modsatte af luv).  
 - {#spryd}Spryd: Stang i Optimist, der spænder sejlet ud.
 
+## Afmærkning & fyr
+- {#kardinalmaerke}Kardinalmærke: Mærke der viser hvilken side (N/S/Ø/V) du skal passere en fare på.  
+- {#nordmaerke}Nordmærke: To sorte spidser opad; passer nord om mærket.  
+- {#sydmaerke}Sydmærke: To sorte spidser nedad; passer syd om mærket.  
+- {#oestmaerke}Østmærke: Spidser væk fra hinanden; passer øst om mærket.  
+- {#vestmaerke}Vestmærke: Spidser mod hinanden; passer vest om mærket.  
+- {#sektorfyr}Sektorfyr: Fyr med farvede sektorer (rød/grøn/hvid) som viser sikre retninger.  
+- {#fl}Fl (Flashing): Kort blink, længere mørke.  
+- {#oc}Oc (Occulting): Lysperioden længere end mørkeperioden.  
+- {#iso}Iso (Isophase): Lys og mørke lige lange.  
+- {#lfl}LFl (Long Flashing): Ét langt blink pr. periode.  
+- {#q}Q (Quick): Mange korte blink.  
+- {#vq}VQ (Very Quick): Meget hurtige blink.
+
+## Sejladsdynamik
+- {#afdrift}Afdrift: Sideværts drift forårsaget af vind/strøm.  
+- {#stroem}Strøm: Vand i bevægelse, der påvirker kurs og fart.  
+- {#boelger}Bølger: Vandets bevægelser; påvirker fart og timing i manøvrer.  
+- {#twist}Twist: Åbning i sejlets top for at afløfte kraft i vindstød.  
+- {#layline}Layline: Tænkt linje mod mærke, hvorfra du kan nå det uden ekstra vending/bomning.
+
+## Udstyr & påklædning
+- {#redningsvest}Redningsvest: CE‑godkendt vest, korrekt størrelse/opdrift.  
+- {#toerdragt}Tørdragt: Vandtæt dragt til koldt vand/vintersejlads.  
+- {#trapez}Trapez: Sele/line til at hænge udenfor båden i joller.
+
 ## Navigation
 - {#soekort}Søkort: Kort over vandet med dybder, farer og afmærkninger.  
 - {#kompas}Kompas: Instrument der viser retning mod magnetisk nord.  
