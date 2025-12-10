@@ -72,6 +72,15 @@ Den side der er i læ for vinden (modsatte af luv).
 #### Spryd
 Stang i Optimist, der spænder sejlet ud.
 
+#### Nødragt / Tørdragt
+Isolerende beklædning til koldt vand; tørdragt er vandtæt skal med varme lag under.
+
+#### Kill‑cord
+Sikkerhedssnor mellem fører og motor, som stopper motoren ved fald.
+
+#### DSC
+Digital Selective Calling – digital VHF‑funktion til nød/tilkald (DSC‑knap/ID).
+
 ## Afmærkning & fyr
 
 #### Kardinalmærke
@@ -143,4 +152,3 @@ Stopknob i enden af en line.
 
 #### Halvstik (enkelt/dobbelt)
 Simpelt afslutningsknob eller fastgørelse om pæl.
-

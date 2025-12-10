@@ -37,3 +37,8 @@ No‑Go: torden, lav sigt, kraftige vindstød i modsø.
 - Forår/koldt vand: korte pas, ekstra varme og flere pauser.  
 - Efterår/blæst: læ‑træning og læns/halvvind fremfor bidevind.
 
+## Kilder & værktøjer
+- DMI Farvands‑ og Sejladsudsigten: https://www.dmi.dk  
+- SejlSikkert (råd/vejledninger): https://www.sejlsikkert.dk  
+- YR (modeloversigt): https://www.yr.no  
+- Windy (visualisering): https://www.windy.com

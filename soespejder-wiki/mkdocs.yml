@@ -20,9 +20,12 @@ nav:
       - Aktiviteter (DDS): aktiviteter.md
   - Sikkerhed:
       - sikkerhed.md
+      - Nødragt & beklædning: sikkerhed/noedragt-beklaedning.md
       - Personligt udstyr: sikkerhed/personligt-udstyr.md
       - Vejrgrænser: sikkerhed/vejrgraenser.md
       - MOB: sikkerhed/mob.md
+      - Førstehjælp ombord: sikkerhed/foerstehjaelp-ombord.md
+      - Følgebåd – SOP: sikkerhed/foelgebaad-sop.md
       - Hypotermi & førstehjælp: sikkerhed/hypotermi-foerstehjaelp.md
       - Nødsignaler: sikkerhed/noedsignaler.md
   - Sejlads:

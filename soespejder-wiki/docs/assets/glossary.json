@@ -54,8 +54,14 @@
   "layline": {"href": "ordbog/#layline"},
   "laylines": {"href": "ordbog/#layline"},
   "redningsvest": {"href": "ordbog/#redningsvest"},
-  "tørdragt": {"href": "ordbog/#toerdragt"},
-  "tordragt": {"href": "ordbog/#toerdragt"},
+  "nødragt": {"href": "ordbog/#nødragt--tørdragt"},
+  "noedragt": {"href": "ordbog/#nødragt--tørdragt"},
+  "tørdragt": {"href": "ordbog/#nødragt--tørdragt"},
+  "toerdragt": {"href": "ordbog/#nødragt--tørdragt"},
+  "tordragt": {"href": "ordbog/#nødragt--tørdragt"},
+  "kill-cord": {"href": "ordbog/#kill-cord"},
+  "kill cord": {"href": "ordbog/#kill-cord"},
+  "dsc": {"href": "ordbog/#dsc"},
   "trapez": {"href": "ordbog/#trapez"},
   "vindøjet": {"href": "ordbog/#luv"}
 }
