@@ -19,15 +19,22 @@ nav:
       - Mærker: badges.md
       - Aktiviteter (DDS): aktiviteter.md
   - Sikkerhed: sikkerhed.md
-  - Grundlæggende sejlads: teori.md
+  - Sejlads:
+      - sejlads/index.md
+      - Grundlæggende sejlads: teori.md
   - Bådtype:
+      - boats/index.md
       - Optimist: boats/optimist.md
       - J/70: boats/j70.md
       - Joller: boats/jolle.md
   - Knob & tovværk: knob.md
-  - Søvejsregler & afmærkning: regler.md
-  - Navigation: navigation.md
-  - VHF & kommunikation: vhf.md
+  - Regler & Navigation:
+      - regler-navigation/index.md
+      - Søvejsregler & afmærkning: regler.md
+      - Navigation: navigation.md
+  - Kommunikation:
+      - kommunikation/index.md
+      - VHF & kommunikation: vhf.md
   - Ordbog: ordbog.md
   - Friluftsliv: friluftsliv.md
   - Træning & øvelser: træning.md
